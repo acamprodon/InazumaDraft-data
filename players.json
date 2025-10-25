@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+
     "name": "Mark Evans",
     "nickname": "Mark",
     "position": "PT",
@@ -17,7 +17,8 @@
     ],
     "secondaryPositions": [
       "DF"
-    ]
+    ],
+      "id": 1
   },
   {
     "name": "Axel Blaze",
@@ -726,7 +727,7 @@
     "kick": 68,
     "speed": 63,
     "control": 78,
-    "defense": 86,
+    "defense": 90,
     "image": "https://acamprodon.github.io/InazumaDraft-data/images/t1/zeus/poseidon.png",
     "season": [
       "T1"
@@ -3382,5 +3383,149 @@
       "PT"
     ],
     "id": 203
+  },
+  {
+    "name": "Craven Kenville",
+    "nickname": "Kenville",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 67,
+    "speed": 80,
+    "control": 72,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/kenville.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 204
+  },
+  {
+    "name": "Anna Mole",
+    "nickname": "Mole",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 68,
+    "speed": 83,
+    "control": 71,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/mole.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 205
+  },
+  {
+    "name": "Kayson Wattever",
+    "nickname": "Kayson",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 82,
+    "control": 75,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/kayson.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 206
+  },
+  {
+    "name": "Chris Tytan",
+    "nickname": "Tytan",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 63,
+    "speed": 78,
+    "control": 74,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/tytan.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 207
+  },
+  {
+    "name": "Mads Hatter",
+    "nickname": "Fedora",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 76,
+    "speed": 85,
+    "control": 81,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/fedora.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 208
+  },
+  {
+    "name": "Karen Ripton",
+    "nickname": "Krypto",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 87,
+    "control": 85,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/krypto.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 209
+  },
+  {
+    "name": "Yakker Plantsworm",
+    "nickname": "Sworm",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 75,
+    "speed": 85,
+    "control": 83,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/sworm.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 210
+  },
+  {
+    "name": "Carrie McCuring",
+    "nickname": "Mercury",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 87,
+    "speed": 88,
+    "control": 80,
+    "defense": 71,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/mercury.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 211
+  },
+  {
+    "name": "Ronny Metcalf",
+    "nickname": "Metron",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 85,
+    "speed": 86,
+    "control": 82,
+    "defense": 68,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/epsilon/metron.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 212
   }
 ]
