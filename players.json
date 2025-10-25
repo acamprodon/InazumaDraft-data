@@ -1,3182 +1,3597 @@
-[
-  {
-    "name": "Mark Evans",
-    "nickname": "Mark",
-    "position": "PT",
-    "element": "earth",
-    "kick": 74,
-    "speed": 75,
-    "control": 78,
-    "defense": 92,
-    "image": "mark",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "Axel Blaze",
-    "nickname": "Axel",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 92,
-    "speed": 86,
-    "control": 85,
-    "defense": 65,
-    "image": "axel",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jude Sharp",
-    "nickname": "Jude",
-    "position": "MC",
-    "element": "aire",
-    "kick": 83,
-    "speed": 80,
-    "control": 92,
-    "defense": 76,
-    "image": "jude",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Nathan Swift",
-    "nickname": "Nathan",
-    "position": "DF",
-    "element": "aire",
-    "kick": 81,
-    "speed": 95,
-    "control": 75,
-    "defense": 79,
-    "image": "nathan",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC",
-      "DL"
-    ]
-  },
-  {
-    "name": "Nathan Swift",
-    "nickname": "Nathan",
-    "position": "DL",
-    "element": "aire",
-    "kick": 91,
-    "speed": 95,
-    "control": 75,
-    "defense": 79,
-    "image": "nathan2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": [
-      "MC",
-      "DF"
-    ]
-  },
-  {
-    "name": "Shawn Froste",
-    "nickname": "Shawn",
-    "position": "DL",
-    "element": "aire",
-    "kick": 86,
-    "speed": 91,
-    "control": 80,
-    "defense": 82,
-    "image": "shawn",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "Byron Love",
-    "nickname": "Byron",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 90,
-    "speed": 84,
-    "control": 90,
-    "defense": 68,
-    "image": "byron",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DL"
-    ]
-  },
-  {
-    "name": "Jack Wallside",
-    "nickname": "Jack",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 55,
-    "control": 72,
-    "defense": 89,
-    "image": "jack",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Joseph King",
-    "nickname": "King",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 68,
-    "speed": 75,
-    "control": 79,
-    "defense": 86,
-    "image": "king",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Joseph King",
-    "nickname": "King",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 68,
-    "speed": 75,
-    "control": 79,
-    "defense": 90,
-    "image": "king2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Bobby Shearer",
-    "nickname": "Bobby",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 70,
-    "speed": 73,
-    "control": 78,
-    "defense": 85,
-    "image": "bobby",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Erik Eagle",
-    "nickname": "Erik",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 82,
-    "speed": 85,
-    "control": 85,
-    "defense": 70,
-    "image": "erik",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Kevin Dragonfly",
-    "nickname": "Kevin",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 84,
-    "speed": 79,
-    "control": 78,
-    "defense": 62,
-    "image": "kevin",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Kevin Dragonfly",
-    "nickname": "Kevin",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 94,
-    "speed": 79,
-    "control": 78,
-    "defense": 62,
-    "image": "kevin2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Shadow Cimmerian",
-    "nickname": "Shadow",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 95,
-    "speed": 95,
-    "control": 95,
-    "defense": 95,
-    "image": "shadow",
-    "season": [
-      "T1",
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DF",
-      "MC"
-    ]
-  },
-  {
-    "name": "Caleb Stonewall",
-    "nickname": "Caleb",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 76,
-    "speed": 84,
-    "control": 89,
-    "defense": 83,
-    "image": "caleb",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Archer Hawkins",
-    "nickname": "Archer",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 79,
-    "speed": 76,
-    "control": 62,
-    "defense": 85,
-    "image": "archer",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jim Wraith",
-    "nickname": "Jim",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 60,
-    "speed": 64,
-    "control": 60,
-    "defense": 79,
-    "image": "jim",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Maxwell Carson",
-    "nickname": "Max",
-    "position": "DL",
-    "element": "aire",
-    "kick": 70,
-    "speed": 80,
-    "control": 78,
-    "defense": 70,
-    "image": "max",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Maxwell Carson",
-    "nickname": "Max",
-    "position": "DL",
-    "element": "aire",
-    "kick": 70,
-    "speed": 80,
-    "control": 88,
-    "defense": 70,
-    "image": "max2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Sam Kincaid",
-    "nickname": "Sam",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 71,
-    "speed": 75,
-    "control": 75,
-    "defense": 71,
-    "image": "sam",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "Sam Kincaid",
-    "nickname": "Sam",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 71,
-    "speed": 75,
-    "control": 75,
-    "defense": 81,
-    "image": "sam2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Steve Grimm",
-    "nickname": "Steve",
-    "position": "MC",
-    "element": "aire",
-    "kick": 68,
-    "speed": 77,
-    "control": 78,
-    "defense": 70,
-    "image": "steve",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Steve Grimm",
-    "nickname": "Steve",
-    "position": "MC",
-    "element": "aire",
-    "kick": 68,
-    "speed": 77,
-    "control": 88,
-    "defense": 70,
-    "image": "steve2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Tim Saunders",
-    "nickname": "Timmy",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 75,
-    "speed": 80,
-    "control": 76,
-    "defense": 70,
-    "image": "timmy",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Tim Saunders",
-    "nickname": "Timmy",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 75,
-    "speed": 90,
-    "control": 76,
-    "defense": 72,
-    "image": "timmy2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Tod Ironside",
-    "nickname": "Tod",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 68,
-    "speed": 78,
-    "control": 74,
-    "defense": 75,
-    "image": "tod",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Tod Ironside",
-    "nickname": "Tod",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 68,
-    "speed": 78,
-    "control": 74,
-    "defense": 85,
-    "image": "tod2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "William Glass",
-    "nickname": "Willy",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 49,
-    "speed": 38,
-    "control": 43,
-    "defense": 2,
-    "image": "willy",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Thomas Feldt",
-    "nickname": "Feldt",
-    "position": "PT",
-    "element": "bosque",
-    "kick": 69,
-    "speed": 74,
-    "control": 78,
-    "defense": 85,
-    "image": "feldt",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Nathan Jones",
-    "nickname": "Mask",
-    "position": "PT",
-    "element": "aire",
-    "kick": 63,
-    "speed": 79,
-    "control": 75,
-    "defense": 80,
-    "image": "mask",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Troy Moon",
-    "nickname": "Wolfy",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 78,
-    "speed": 86,
-    "control": 79,
-    "defense": 70,
-    "image": "wolfy",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "DL"
-    ]
-  },
-  {
-    "name": "Russell Walk",
-    "nickname": "Styx",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 62,
-    "speed": 77,
-    "control": 70,
-    "defense": 79,
-    "image": "styx",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jason Jones",
-    "nickname": "Creepy",
-    "position": "DF",
-    "element": "aire",
-    "kick": 58,
-    "speed": 76,
-    "control": 68,
-    "defense": 71,
-    "image": "creepy",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ken Furan",
-    "nickname": "Franky",
-    "position": "DF",
-    "element": "earth",
-    "kick": 50,
-    "speed": 46,
-    "control": 65,
-    "defense": 79,
-    "image": "franky",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "PT"
-    ]
-  },
-  {
-    "name": "Jerry Fulton",
-    "nickname": "Undead",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 51,
-    "speed": 55,
-    "control": 59,
-    "defense": 77,
-    "image": "undead",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ray Mannigs",
-    "nickname": "Jiangshi",
-    "position": "MC",
-    "element": "aire",
-    "kick": 65,
-    "speed": 78,
-    "control": 70,
-    "defense": 62,
-    "image": "jiangshi",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Robert Mayer",
-    "nickname": "Mummy",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 66,
-    "speed": 73,
-    "control": 71,
-    "defense": 64,
-    "image": "mummy",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Alexander Brave",
-    "nickname": "Grave",
-    "position": "MC",
-    "element": "aire",
-    "kick": 55,
-    "speed": 77,
-    "control": 67,
-    "defense": 78,
-    "image": "grave",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "Johan Tassman",
-    "nickname": "Talisman",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 85,
-    "speed": 83,
-    "control": 75,
-    "defense": 65,
-    "image": "talisman",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Burt Wolf",
-    "nickname": "Blood",
-    "position": "MC",
-    "element": "earth",
-    "kick": 79,
-    "speed": 83,
-    "control": 77,
-    "defense": 75,
-    "image": "blood",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "DL"
-    ]
-  },
-  {
-    "name": "Paul Siddon",
-    "nickname": "Poseidon",
-    "position": "PT",
-    "element": "earth",
-    "kick": 68,
-    "speed": 63,
-    "control": 78,
-    "defense": 86,
-    "image": "poseidon",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Apollo Light",
-    "nickname": "Apollo",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 65,
-    "speed": 85,
-    "control": 72,
-    "defense": 80,
-    "image": "apollo",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jeff Iron",
-    "nickname": "Hephestus",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 79,
-    "speed": 87,
-    "control": 77,
-    "defense": 77,
-    "image": "jeff",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Lane War",
-    "nickname": "Ares",
-    "position": "DF",
-    "element": "earth",
-    "kick": 65,
-    "speed": 79,
-    "control": 75,
-    "defense": 86,
-    "image": "ares",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Danny Wood",
-    "nickname": "Dionysus",
-    "position": "DF",
-    "element": "aire",
-    "kick": 65,
-    "speed": 74,
-    "control": 78,
-    "defense": 87,
-    "image": "dionysus",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Artie Mishman",
-    "nickname": "Artemis",
-    "position": "MC",
-    "element": "aire",
-    "kick": 75,
-    "speed": 85,
-    "control": 82,
-    "defense": 75,
-    "image": "artemis",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Arion Matlock",
-    "nickname": "Hermes",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 73,
-    "speed": 82,
-    "control": 83,
-    "defense": 78,
-    "image": "hermes",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Wesley Knox",
-    "nickname": "Athena",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 79,
-    "speed": 85,
-    "control": 82,
-    "defense": 72,
-    "image": "athena",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jonas Demetrius",
-    "nickname": "Demeter",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 88,
-    "speed": 82,
-    "control": 78,
-    "defense": 70,
-    "image": "demeter",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Henry House",
-    "nickname": "Hera",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 82,
-    "speed": 84,
-    "control": 84,
-    "defense": 73,
-    "image": "hera",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DL",
-      "DF"
-    ]
-  },
-  {
-    "name": "Peter Drent",
-    "nickname": "Drent",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 69,
-    "control": 72,
-    "defense": 84,
-    "image": "drent",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ben Simmons",
-    "nickname": "Simmons",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 60,
-    "speed": 76,
-    "control": 74,
-    "defense": 79,
-    "image": "simmons",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Alan Master",
-    "nickname": "Master",
-    "position": "MC",
-    "element": "aire",
-    "kick": 68,
-    "speed": 82,
-    "control": 78,
-    "defense": 77,
-    "image": "master",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "Gus Martin",
-    "nickname": "Martin",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 66,
-    "speed": 78,
-    "control": 79,
-    "defense": 79,
-    "image": "martin",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Herman Waldon",
-    "nickname": "Waldon",
-    "position": "MC",
-    "element": "aire",
-    "kick": 67,
-    "speed": 78,
-    "control": 78,
-    "defense": 78,
-    "image": "waldon",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "John Bloom",
-    "nickname": "Bloom",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 74,
-    "speed": 84,
-    "control": 77,
-    "defense": 70,
-    "image": "bloom",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Derek Swing",
-    "nickname": "Swing",
-    "position": "MC",
-    "element": "aire",
-    "kick": 74,
-    "speed": 86,
-    "control": 77,
-    "defense": 70,
-    "image": "swing",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Daniel Hatch",
-    "nickname": "Hatch",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 80,
-    "speed": 80,
-    "control": 75,
-    "defense": 75,
-    "image": "hatch",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "David Samford",
-    "nickname": "Samford",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 90,
-    "speed": 85,
-    "control": 80,
-    "defense": 67,
-    "image": "samford2",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "David Samford",
-    "nickname": "Samford",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 84,
-    "speed": 85,
-    "control": 80,
-    "defense": 67,
-    "image": "samford",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "John Neville",
-    "nickname": "Neville",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 64,
-    "speed": 63,
-    "control": 73,
-    "defense": 84,
-    "image": "neville",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Malcolm Night",
-    "nickname": "Night",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 75,
-    "speed": 80,
-    "control": 77,
-    "defense": 80,
-    "image": "night",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Alfred Meenan",
-    "nickname": "Meenan",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 64,
-    "speed": 82,
-    "control": 76,
-    "defense": 82,
-    "image": "meenan",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Dan Mirthful",
-    "nickname": "Mirthful",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 60,
-    "speed": 72,
-    "control": 75,
-    "defense": 79,
-    "image": "mirthful",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ricky Clover",
-    "nickname": "Clover",
-    "position": "DF",
-    "element": "earth",
-    "kick": 64,
-    "speed": 77,
-    "control": 76,
-    "defense": 81,
-    "image": "clover",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Toby Damian",
-    "nickname": "Damian",
-    "position": "MC",
-    "element": "aire",
-    "kick": 74,
-    "speed": 85,
-    "control": 79,
-    "defense": 73,
-    "image": "damian",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "York Nashmith",
-    "nickname": "Nashmith",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 73,
-    "speed": 79,
-    "control": 80,
-    "defense": 70,
-    "image": "nashmith",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Zachary Moore",
-    "nickname": "Moore",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 72,
-    "speed": 80,
-    "control": 76,
-    "defense": 72,
-    "image": "moore",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Marvin Murdock",
-    "nickname": "Marvin",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 86,
-    "speed": 83,
-    "control": 79,
-    "defense": 62,
-    "image": "marvin",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Thomas Murdock",
-    "nickname": "Thomas",
-    "position": "DL",
-    "element": "aire",
-    "kick": 82,
-    "speed": 80,
-    "control": 77,
-    "defense": 70,
-    "image": "thomas",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Tyler Murdock",
-    "nickname": "Tyler",
-    "position": "DL",
-    "element": "earth",
-    "kick": 84,
-    "speed": 85,
-    "control": 76,
-    "defense": 66,
-    "image": "tyler",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Harry Leading",
-    "nickname": "Leading",
-    "position": "DF",
-    "element": "aire",
-    "kick": 66,
-    "speed": 81,
-    "control": 74,
-    "defense": 77,
-    "image": "leading",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Terry Stronger",
-    "nickname": "Stronger",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 68,
-    "speed": 80,
-    "control": 72,
-    "defense": 81,
-    "image": "stronger",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Philip Marvel",
-    "nickname": "Marvel",
-    "position": "DF",
-    "element": "earth",
-    "kick": 65,
-    "speed": 78,
-    "control": 76,
-    "defense": 79,
-    "image": "marvel",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Noel Good",
-    "nickname": "Good",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 62,
-    "speed": 68,
-    "control": 78,
-    "defense": 82,
-    "image": "good",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Tyron Rock",
-    "nickname": "Rock",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 75,
-    "speed": 77,
-    "control": 80,
-    "defense": 74,
-    "image": "rock",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Francis Tell",
-    "nickname": "Tell",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 72,
-    "speed": 79,
-    "control": 79,
-    "defense": 79,
-    "image": "tell",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Samuel Buster",
-    "nickname": "Busta",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 78,
-    "speed": 83,
-    "control": 80,
-    "defense": 72,
-    "image": "busta",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jonathan Seller",
-    "nickname": "Seller",
-    "position": "DL",
-    "element": "aire",
-    "kick": 83,
-    "speed": 82,
-    "control": 75,
-    "defense": 65,
-    "image": "seller",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Victor Kind",
-    "nickname": "Kind",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 76,
-    "speed": 80,
-    "control": 79,
-    "defense": 73,
-    "image": "kind",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Neil Turner",
-    "nickname": "Turner",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 86,
-    "speed": 84,
-    "control": 77,
-    "defense": 68,
-    "image": "turner",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Sam Idol",
-    "nickname": "Idol",
-    "position": "PT",
-    "element": "earth",
-    "kick": 56,
-    "speed": 58,
-    "control": 60,
-    "defense": 76,
-    "image": "idol",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Marcus Train",
-    "nickname": "Train",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 61,
-    "speed": 73,
-    "control": 70,
-    "defense": 75,
-    "image": "train",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Light Nobel",
-    "nickname": "Novel",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 60,
-    "speed": 66,
-    "control": 75,
-    "defense": 79,
-    "image": "novel",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Walter Valiant",
-    "nickname": "Hero",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 68,
-    "speed": 78,
-    "control": 76,
-    "defense": 77,
-    "image": "hero",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Spencer Gates",
-    "nickname": "Cosplay",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 65,
-    "control": 73,
-    "defense": 77,
-    "image": "cosplay",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Josh Spear",
-    "nickname": "Online",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 69,
-    "speed": 69,
-    "control": 69,
-    "defense": 58,
-    "image": "online",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gaby Farmer",
-    "nickname": "Custom",
-    "position": "DL",
-    "element": "aire",
-    "kick": 69,
-    "speed": 72,
-    "control": 66,
-    "defense": 55,
-    "image": "custom",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Anthony Woodbridge",
-    "nickname": "Robot",
-    "position": "MC",
-    "element": "aire",
-    "kick": 66,
-    "speed": 76,
-    "control": 72,
-    "defense": 66,
-    "image": "robot",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gus Gamer",
-    "nickname": "Gamer",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 79,
-    "speed": 78,
-    "control": 72,
-    "defense": 61,
-    "image": "gaymer",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Mark Gambling",
-    "nickname": "Artist",
-    "position": "DL",
-    "element": "aire",
-    "kick": 78,
-    "speed": 77,
-    "control": 75,
-    "defense": 64,
-    "image": "artist",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Theodore Master",
-    "nickname": "Arcade",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 71,
-    "speed": 76,
-    "control": 74,
-    "defense": 60,
-    "image": "arcade",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Charlie Boardfield",
-    "nickname": "Boar",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 66,
-    "speed": 74,
-    "control": 72,
-    "defense": 79,
-    "image": "boar",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Hugo Talgeese",
-    "nickname": "Chiken",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 73,
-    "speed": 86,
-    "control": 79,
-    "defense": 80,
-    "image": "chiken",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Wilson Fishman",
-    "nickname": "Fishman",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 64,
-    "speed": 76,
-    "control": 74,
-    "defense": 76,
-    "image": "fishman",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Peter Johnson",
-    "nickname": "Toad",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 65,
-    "speed": 77,
-    "control": 72,
-    "defense": 78,
-    "image": "toad",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Leonard O'Shea",
-    "nickname": "Lion",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 79,
-    "control": 72,
-    "defense": 82,
-    "image": "lion",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Cham Lion",
-    "nickname": "Chameleon",
-    "position": "MC",
-    "element": "aire",
-    "kick": 68,
-    "speed": 77,
-    "control": 77,
-    "defense": 72,
-    "image": "chameleon",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Steve Eagle",
-    "nickname": "Eagle",
-    "position": "MC",
-    "element": "aire",
-    "kick": 78,
-    "speed": 85,
-    "control": 79,
-    "defense": 73,
-    "image": "eagle",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Bruce Monkey",
-    "nickname": "Monkey",
-    "position": "MC",
-    "element": "aire",
-    "kick": 70,
-    "speed": 83,
-    "control": 80,
-    "defense": 75,
-    "image": "monkey",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gary Lancaster",
-    "nickname": "Gorilla",
-    "position": "DL",
-    "element": "earth",
-    "kick": 83,
-    "speed": 80,
-    "control": 75,
-    "defense": 70,
-    "image": "gorilla",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Harry Snake",
-    "nickname": "Snake",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 80,
-    "speed": 81,
-    "control": 77,
-    "defense": 64,
-    "image": "snake",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Adrian Speed",
-    "nickname": "Cheetah",
-    "position": "DL",
-    "element": "aire",
-    "kick": 82,
-    "speed": 90,
-    "control": 75,
-    "defense": 62,
-    "image": "cheetah",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Morgan Sanders",
-    "nickname": "Hood",
-    "position": "PT",
-    "element": "bosque",
-    "kick": 73,
-    "speed": 80,
-    "control": 72,
-    "defense": 82,
-    "image": "hood",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Newton Flust",
-    "nickname": "Crackshot",
-    "position": "DF",
-    "element": "earth",
-    "kick": 65,
-    "speed": 87,
-    "control": 74,
-    "defense": 79,
-    "image": "crackshot",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jim Hillfort",
-    "nickname": "Hillfort",
-    "position": "DF",
-    "element": "aire",
-    "kick": 66,
-    "speed": 85,
-    "control": 75,
-    "defense": 78,
-    "image": "hillfort",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Galen Thunderbird",
-    "nickname": "Thunder",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 80,
-    "control": 75,
-    "defense": 81,
-    "image": "thunder",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Finn Stoned",
-    "nickname": "Bandit",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 63,
-    "speed": 80,
-    "control": 72,
-    "defense": 84,
-    "image": "bandit",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Phil Wingate",
-    "nickname": "Code",
-    "position": "MC",
-    "element": "earth",
-    "kick": 70,
-    "speed": 86,
-    "control": 80,
-    "defense": 79,
-    "image": "code",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jez Shell",
-    "nickname": "Star",
-    "position": "MC",
-    "element": "aire",
-    "kick": 74,
-    "speed": 89,
-    "control": 78,
-    "defense": 76,
-    "image": "star",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jupiter Jumper",
-    "nickname": "Cleats",
-    "position": "MC",
-    "element": "aire",
-    "kick": 76,
-    "speed": 89,
-    "control": 78,
-    "defense": 74,
-    "image": "cleats",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Sam Samurai",
-    "nickname": "Samurai",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 83,
-    "speed": 85,
-    "control": 77,
-    "defense": 63,
-    "image": "samurai",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Hank Sullivan",
-    "nickname": "Hattori",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 79,
-    "speed": 86,
-    "control": 83,
-    "defense": 74,
-    "image": "hattori",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Sail Bluesea",
-    "nickname": "Cloak",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 87,
-    "speed": 91,
-    "control": 80,
-    "defense": 62,
-    "image": "cloak",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Albert Green",
-    "nickname": "Greeny",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 71,
-    "speed": 76,
-    "control": 74,
-    "defense": 86,
-    "image": "greeny",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Seward Hayseed",
-    "nickname": "Hayseed",
-    "position": "DF",
-    "element": "earth",
-    "kick": 65,
-    "speed": 78,
-    "control": 75,
-    "defense": 79,
-    "image": "hayseed",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Kent Work",
-    "nickname": "Work",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 65,
-    "speed": 80,
-    "control": 72,
-    "defense": 80,
-    "image": "work",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Mark Hillvalley",
-    "nickname": "Hillvalley",
-    "position": "DF",
-    "element": "earth",
-    "kick": 66,
-    "speed": 72,
-    "control": 76,
-    "defense": 84,
-    "image": "hillvalley",
-    "season": [
-      "T1",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Herb Sherman",
-    "nickname": "Sherman",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 64,
-    "speed": 79,
-    "control": 75,
-    "defense": 81,
-    "image": "sherman",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Joe Small",
-    "nickname": "Milky",
-    "position": "MC",
-    "element": "earth",
-    "kick": 69,
-    "speed": 82,
-    "control": 77,
-    "defense": 82,
-    "image": "milky",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ike Steiner",
-    "nickname": "Mother",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 70,
-    "speed": 77,
-    "control": 77,
-    "defense": 70,
-    "image": "mother",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Orville Newman",
-    "nickname": "Spray",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 70,
-    "speed": 75,
-    "control": 79,
-    "defense": 79,
-    "image": "spray",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Tom Walters",
-    "nickname": "Roast",
-    "position": "MC",
-    "element": "earth",
-    "kick": 77,
-    "speed": 81,
-    "control": 83,
-    "defense": 77,
-    "image": "roast",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Daniel Dawson",
-    "nickname": "Dawson",
-    "position": "MC",
-    "element": "aire",
-    "kick": 76,
-    "speed": 83,
-    "control": 79,
-    "defense": 71,
-    "image": "dawson",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Stuart Racoonfur",
-    "nickname": "Muffs",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 83,
-    "speed": 81,
-    "control": 77,
-    "defense": 66,
-    "image": "muffs",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Iggy Russ",
-    "nickname": "Icarus",
-    "position": "PT",
-    "element": "aire",
-    "kick": 68,
-    "speed": 78,
-    "control": 74,
-    "defense": 82,
-    "image": "icarus",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gus Heeley",
-    "nickname": "Achilles",
-    "position": "DL",
-    "element": "earth",
-    "kick": 83,
-    "speed": 80,
-    "control": 73,
-    "defense": 61,
-    "image": "achilles",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Harry Closs",
-    "nickname": "Heracles",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 71,
-    "speed": 76,
-    "control": 75,
-    "defense": 80,
-    "image": "heracles",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Andy Chronic",
-    "nickname": "Chronos",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 68,
-    "speed": 81,
-    "control": 75,
-    "defense": 78,
-    "image": "chronos",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ned Yousef",
-    "nickname": "Medusa",
-    "position": "MC",
-    "element": "earth",
-    "kick": 77,
-    "speed": 81,
-    "control": 80,
-    "defense": 74,
-    "image": "medusa",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Grant Eldorado",
-    "nickname": "Eldorado",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 77,
-    "speed": 76,
-    "control": 72,
-    "defense": 76,
-    "image": "eldorado",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "DL"
-    ]
-  },
-  {
-    "name": "Mike Vox",
-    "nickname": "Vox",
-    "position": "DF",
-    "element": "aire",
-    "kick": 64,
-    "speed": 75,
-    "control": 73,
-    "defense": 75,
-    "image": "vox",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Simon Calier",
-    "nickname": "Calier",
-    "position": "PT",
-    "element": "bosque",
-    "kick": 75,
-    "speed": 78,
-    "control": 77,
-    "defense": 76,
-    "image": "calier",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Barry Potts",
-    "nickname": "Potts",
-    "position": "MC",
-    "element": "aire",
-    "kick": 74,
-    "speed": 72,
-    "control": 76,
-    "defense": 73,
-    "image": "potts",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Alan Cole",
-    "nickname": "Koala",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 72,
-    "speed": 77,
-    "control": 75,
-    "defense": 71,
-    "image": "koala",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Philip Anders",
-    "nickname": "Panda",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 78,
-    "speed": 78,
-    "control": 75,
-    "defense": 62,
-    "image": "panda",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "John Reynolds",
-    "nickname": "Ronin",
-    "position": "DL",
-    "element": "aire",
-    "kick": 78,
-    "speed": 80,
-    "control": 72,
-    "defense": 62,
-    "image": "ronin",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Paul Peabody",
-    "nickname": "Peabody",
-    "position": "MC",
-    "element": "aire",
-    "kick": 71,
-    "speed": 77,
-    "control": 75,
-    "defense": 80,
-    "image": "peabody",
-    "season": [
-      "T1"
-    ],
-    "secondaryPositions": [
-      "PT"
-    ]
-  },
-  {
-    "name": "Darren LaChance",
-    "nickname": "Darren",
-    "position": "PT",
-    "element": "bosque",
-    "kick": 65,
-    "speed": 78,
-    "control": 76,
-    "defense": 87,
-    "image": "darren",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Hurley Kane",
-    "nickname": "Hurley",
-    "position": "DF",
-    "element": "aire",
-    "kick": 82,
-    "speed": 82,
-    "control": 76,
-    "defense": 81,
-    "image": "hurley",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Scott Banyan",
-    "nickname": "Scotty",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 66,
-    "speed": 86,
-    "control": 73,
-    "defense": 81,
-    "image": "scotty",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Suzette Hartland",
-    "nickname": "Sue",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 80,
-    "speed": 79,
-    "control": 74,
-    "defense": 63,
-    "image": "sue",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Victoria Vanguard",
-    "nickname": "Tori",
-    "position": "MC",
-    "element": "aire",
-    "kick": 75,
-    "speed": 77,
-    "control": 78,
-    "defense": 82,
-    "image": "tori",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Eugene Conwell",
-    "nickname": "Conwell",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 78,
-    "speed": 77,
-    "control": 74,
-    "defense": 64,
-    "image": "conwell",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Joe Ingram",
-    "nickname": "Ingram",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 61,
-    "speed": 75,
-    "control": 68,
-    "defense": 71,
-    "image": "ingram",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Kendall Sefton",
-    "nickname": "Sefton",
-    "position": "DF",
-    "element": "aire",
-    "kick": 64,
-    "speed": 76,
-    "control": 67,
-    "defense": 72,
-    "image": "sefton",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jason Strike",
-    "nickname": "Strike",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 63,
-    "speed": 75,
-    "control": 65,
-    "defense": 72,
-    "image": "strike",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Norman Porter",
-    "nickname": "Porter",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 67,
-    "control": 65,
-    "defense": 73,
-    "image": "porter",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Maxwell Claus",
-    "nickname": "Chops",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 63,
-    "speed": 74,
-    "control": 68,
-    "defense": 71,
-    "image": "chops",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Bruce Chaney",
-    "nickname": "Chaney",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 69,
-    "speed": 75,
-    "control": 71,
-    "defense": 70,
-    "image": "chaney",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Leroy Rhymes",
-    "nickname": "Rhymes",
-    "position": "MC",
-    "element": "aire",
-    "kick": 66,
-    "speed": 78,
-    "control": 73,
-    "defense": 65,
-    "image": "rhymes",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Mildford Scott",
-    "nickname": "Scott",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 65,
-    "speed": 74,
-    "control": 71,
-    "defense": 63,
-    "image": "scott",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Lou Edmonds",
-    "nickname": "Edmonds",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 74,
-    "speed": 75,
-    "control": 70,
-    "defense": 62,
-    "image": "edmonds",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Cameron Morefield",
-    "nickname": "Morefield",
-    "position": "MC",
-    "element": "aire",
-    "kick": 72,
-    "speed": 77,
-    "control": 75,
-    "defense": 67,
-    "image": "morefield",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Greg Bernard",
-    "nickname": "Cyborg",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 77,
-    "speed": 79,
-    "control": 76,
-    "defense": 64,
-    "image": "cyborg",
-    "season": [
-      "T1",
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gordon Star",
-    "nickname": "Galileo",
-    "position": "PT",
-    "element": "bosque",
-    "kick": 68,
-    "speed": 78,
-    "control": 74,
-    "defense": 82,
-    "image": "galileo",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Connor Shuttle",
-    "nickname": "Coral",
-    "position": "DF",
-    "element": "aire",
-    "kick": 69,
-    "speed": 81,
-    "control": 73,
-    "defense": 78,
-    "image": "coral",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jim Leading",
-    "nickname": "Gigs",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 66,
-    "speed": 77,
-    "control": 71,
-    "defense": 77,
-    "image": "gigs",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Grant Icewater",
-    "nickname": "Ganymede",
-    "position": "DF",
-    "element": "earth",
-    "kick": 71,
-    "speed": 76,
-    "control": 76,
-    "defense": 78,
-    "image": "ganymede",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Charles Riverboat",
-    "nickname": "Charon",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 67,
-    "speed": 81,
-    "control": 74,
-    "defense": 78,
-    "image": "charon",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Pat Box",
-    "nickname": "Pandora",
-    "position": "MC",
-    "element": "aire",
-    "kick": 70,
-    "speed": 84,
-    "control": 77,
-    "defense": 79,
-    "image": "pandero",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gregory Saturn",
-    "nickname": "Grengo",
-    "position": "MC",
-    "element": "earth",
-    "kick": 76,
-    "speed": 85,
-    "control": 80,
-    "defense": 73,
-    "image": "grengo",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Izzy Jupiter",
-    "nickname": "Io",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 75,
-    "speed": 80,
-    "control": 78,
-    "defense": 75,
-    "image": "io",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Rhona Countdown",
-    "nickname": "Rhim",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 84,
-    "speed": 82,
-    "control": 76,
-    "defense": 65,
-    "image": "rhim",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jordan Greenway",
-    "nickname": "Janus",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 85,
-    "speed": 86,
-    "control": 84,
-    "defense": 70,
-    "image": "janus",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Jordan Greenway",
-    "nickname": "Jordan",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 82,
-    "speed": 86,
-    "control": 88,
-    "defense": 72,
-    "image": "jordan",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Dylan Bluemoon",
-    "nickname": "Diam",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 84,
-    "speed": 84,
-    "control": 78,
-    "defense": 60,
-    "image": "diam",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Alfonso Íñigo",
-    "nickname": "Íñigo",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 74,
-    "speed": 77,
-    "control": 74,
-    "defense": 88,
-    "image": "inigo",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "José Costa",
-    "nickname": "Costa",
-    "position": "DF",
-    "element": "aire",
-    "kick": 67,
-    "speed": 86,
-    "control": 72,
-    "defense": 82,
-    "image": "costa",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "José López",
-    "nickname": "López",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 65,
-    "speed": 81,
-    "control": 75,
-    "defense": 83,
-    "image": "lopez",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Antonio Garrido",
-    "nickname": "Garrido",
-    "position": "DF",
-    "element": "earth",
-    "kick": 62,
-    "speed": 80,
-    "control": 74,
-    "defense": 82,
-    "image": "garrido",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Victor García",
-    "nickname": "García",
-    "position": "DF",
-    "element": "earth",
-    "kick": 80,
-    "speed": 85,
-    "control": 77,
-    "defense": 87,
-    "image": "garcia",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Joan Rodríguez",
-    "nickname": "Rodríguez",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 72,
-    "speed": 78,
-    "control": 85,
-    "defense": 84,
-    "image": "rodri",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Igor Ferreira",
-    "nickname": "Ferreira",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 78,
-    "speed": 84,
-    "control": 84,
-    "defense": 73,
-    "image": "ferreira",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Miguel Pereira",
-    "nickname": "Pereira",
-    "position": "MC",
-    "element": "aire",
-    "kick": 76,
-    "speed": 87,
-    "control": 83,
-    "defense": 76,
-    "image": "pereira",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Borja Costa",
-    "nickname": "Borja",
-    "position": "MC",
-    "element": "aire",
-    "kick": 81,
-    "speed": 86,
-    "control": 82,
-    "defense": 70,
-    "image": "borja",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Mateo Bonachea",
-    "nickname": "Bonachea",
-    "position": "DL",
-    "element": "earth",
-    "kick": 87,
-    "speed": 82,
-    "control": 76,
-    "defense": 64,
-    "image": "bonachea",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Miguel Jiménez",
-    "nickname": "Jiménez",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 85,
-    "speed": 83,
-    "control": 74,
-    "defense": 62,
-    "image": "jimenez",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Juan Espindola",
-    "nickname": "Espindola",
-    "position": "PT",
-    "element": "earth",
-    "kick": 66,
-    "speed": 80,
-    "control": 75,
-    "defense": 81,
-    "image": "espindola",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Isaac César",
-    "nickname": "César",
-    "position": "DL",
-    "element": "aire",
-    "kick": 83,
-    "speed": 85,
-    "control": 77,
-    "defense": 65,
-    "image": "cesar",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Laudelino Castor",
-    "nickname": "Castor",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 62,
-    "speed": 80,
-    "control": 71,
-    "defense": 79,
-    "image": "castor",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Carlos Arroyo",
-    "nickname": "Arroyo",
-    "position": "MC",
-    "element": "earth",
-    "kick": 78,
-    "speed": 84,
-    "control": 83,
-    "defense": 77,
-    "image": "arroyo",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Federico Rubiera",
-    "nickname": "Rubiera",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 82,
-    "speed": 82,
-    "control": 80,
-    "defense": 64,
-    "image": "rubiera",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Thor Stoutberg",
-    "nickname": "Thor",
-    "position": "MC",
-    "element": "aire",
-    "kick": 77,
-    "speed": 75,
-    "control": 80,
-    "defense": 84,
-    "image": "thor",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": [
-      "DF"
-    ]
-  },
-  {
-    "name": "Austin Hobbes",
-    "nickname": "Austin",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 88,
-    "speed": 87,
-    "control": 78,
-    "defense": 67,
-    "image": "austin",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Xavier Foster",
-    "nickname": "Xavier",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 91,
-    "speed": 86,
-    "control": 83,
-    "defense": 72,
-    "image": "xavier",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": [
-      "MC"
-    ]
-  },
-  {
-    "name": "Xavier Foster",
-    "nickname": "Xene",
-    "position": "DL",
-    "element": "fuego",
-    "kick": 90,
-    "speed": 90,
-    "control": 74,
-    "defense": 60,
-    "image": "xene",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Isabelle Trick",
-    "nickname": "Bellatrix",
-    "position": "MC",
-    "element": "aire",
-    "kick": 86,
-    "speed": 92,
-    "control": 88,
-    "defense": 70,
-    "image": "bellatrix",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Wilbur Watkins",
-    "nickname": "Wittz",
-    "position": "DL",
-    "element": "bosque",
-    "kick": 86,
-    "speed": 82,
-    "control": 74,
-    "defense": 67,
-    "image": "wittz",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Ashton Malone",
-    "nickname": "Ark",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 80,
-    "speed": 86,
-    "control": 83,
-    "defense": 75,
-    "image": "ark",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Katie Brown",
-    "nickname": "Kiwill",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 78,
-    "speed": 88,
-    "control": 85,
-    "defense": 76,
-    "image": "kiwill",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Connor Murray",
-    "nickname": "Kormer",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 77,
-    "speed": 85,
-    "control": 84,
-    "defense": 77,
-    "image": "kormer",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Hunt Mercer",
-    "nickname": "Hauser",
-    "position": "DF",
-    "element": "earth",
-    "kick": 70,
-    "speed": 80,
-    "control": 75,
-    "defense": 81,
-    "image": "hauser",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Zack Cummings",
-    "nickname": "Zohen",
-    "position": "DF",
-    "element": "earth",
-    "kick": 74,
-    "speed": 84,
-    "control": 75,
-    "defense": 86,
-    "image": "zohen",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Kim Powell",
-    "nickname": "Kiburn",
-    "position": "DF",
-    "element": "fuego",
-    "kick": 73,
-    "speed": 88,
-    "control": 73,
-    "defense": 84,
-    "image": "kiburn",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Gail Baker",
-    "nickname": "Gele",
-    "position": "DF",
-    "element": "aire",
-    "kick": 68,
-    "speed": 85,
-    "control": 76,
-    "defense": 82,
-    "image": "gail",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Nelson Rockwell",
-    "nickname": "Nero",
-    "position": "PT",
-    "element": "aire",
-    "kick": 70,
-    "speed": 90,
-    "control": 72,
-    "defense": 90,
-    "image": "nero",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Dave Quagmire",
-    "nickname": "Dvalin",
-    "position": "PT",
-    "element": "fuego",
-    "kick": 84,
-    "speed": 80,
-    "control": 76,
-    "defense": 87,
-    "image": "dvalin",
-    "season": [
-      "T2"
-    ],
-    "secondaryPositions": [
-      "DL"
-    ]
-  },
-  {
-    "name": "Dave Quagmire",
-    "nickname": "Quagmire",
-    "position": "MC",
-    "element": "fuego",
-    "kick": 89,
-    "speed": 87,
-    "control": 88,
-    "defense": 80,
-    "image": "dave",
-    "season": [
-      "T3"
-    ],
-    "secondaryPositions": [
-      "PT",
-      "DL",
-      "DF"
-    ]
-  },
-  {
-    "name": "Argie Bargie",
-    "nickname": "Bargie",
-    "position": "DF",
-    "element": "bosque",
-    "kick": 67,
-    "speed": 77,
-    "control": 70,
-    "defense": 85,
-    "image": "bargie",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": []
-  },
-  {
-    "name": "Zeke Valanche",
-    "nickname": "Zell",
-    "position": "DL",
-    "element": "aire",
-    "kick": 86,
-    "speed": 86,
-    "control": 75,
-    "defense": 83,
-    "image": "zell",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "PT"
-    ]
-  },
-  {
-    "name": "Ethan Whitering",
-    "nickname": "Heat",
-    "position": "MC",
-    "element": "bosque",
-    "kick": 76,
-    "speed": 82,
-    "control": 80,
-    "defense": 82,
-    "image": "heat",
-    "season": [
-      "T2",
-      "T3"
-    ],
-    "secondaryPositions": [
-      "PT"
-    ]
-  }
+ (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
+diff --git a/players.json b/players.json
+index 56605e38edabb85b3d9b5d22d891481bd6849843..99b13f5731798a777b67120113a10545ea1037fd 100644
+--- a/players.json
++++ b/players.json
+@@ -1,3182 +1,3589 @@
+ [
+   {
+     "name": "Mark Evans",
+     "nickname": "Mark",
+     "position": "PT",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 74,
+     "speed": 75,
+     "control": 78,
+     "defense": 92,
+     "image": "mark",
++    "imagePath": "images/t1/raimon/mark.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "Axel Blaze",
+     "nickname": "Axel",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 92,
+     "speed": 86,
+     "control": 85,
+     "defense": 65,
+     "image": "axel",
++    "imagePath": "images/t1/raimon/axel.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jude Sharp",
+     "nickname": "Jude",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 83,
+     "speed": 80,
+     "control": 92,
+     "defense": 76,
+     "image": "jude",
++    "imagePath": "images/t1/royal/jude.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Nathan Swift",
+     "nickname": "Nathan",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 81,
+     "speed": 95,
+     "control": 75,
+     "defense": 79,
+     "image": "nathan",
++    "imagePath": "images/t1/raimon/nathan.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC",
+       "DL"
+     ]
+   },
+   {
+     "name": "Nathan Swift",
+     "nickname": "Nathan",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 91,
+     "speed": 95,
+     "control": 75,
+     "defense": 79,
+     "image": "nathan2",
++    "imagePath": "images/t2/emperadores/nathan2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": [
+       "MC",
+       "DF"
+     ]
+   },
+   {
+     "name": "Shawn Froste",
+     "nickname": "Shawn",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 86,
+     "speed": 91,
+     "control": 80,
+     "defense": 82,
+     "image": "shawn",
++    "imagePath": "images/t2/raimon/shawn.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "Byron Love",
+     "nickname": "Byron",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 90,
+     "speed": 84,
+     "control": 90,
+     "defense": 68,
+     "image": "byron",
++    "imagePath": "images/t1/zeus/byron.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DL"
+     ]
+   },
+   {
+     "name": "Jack Wallside",
+     "nickname": "Jack",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 55,
+     "control": 72,
+     "defense": 89,
+     "image": "jack",
++    "imagePath": "images/t1/raimon/jack.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Joseph King",
+     "nickname": "King",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 68,
+     "speed": 75,
+     "control": 79,
+     "defense": 86,
+     "image": "king",
++    "imagePath": "images/t1/royal/king.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Joseph King",
+     "nickname": "King",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 68,
+     "speed": 75,
+     "control": 79,
+     "defense": 90,
+     "image": "king2",
++    "imagePath": "images/t2/royalredux/king2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Bobby Shearer",
+     "nickname": "Bobby",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 70,
+     "speed": 73,
+     "control": 78,
+     "defense": 85,
+     "image": "bobby",
++    "imagePath": "images/t1/raimon/bobby.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Erik Eagle",
+     "nickname": "Erik",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 82,
+     "speed": 85,
+     "control": 85,
+     "defense": 70,
+     "image": "erik",
++    "imagePath": "images/t1/raimon/erik.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Kevin Dragonfly",
+     "nickname": "Kevin",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 84,
+     "speed": 79,
+     "control": 78,
+     "defense": 62,
+     "image": "kevin",
++    "imagePath": "images/t1/raimon/kevin.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Kevin Dragonfly",
+     "nickname": "Kevin",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 94,
+     "speed": 79,
+     "control": 78,
+     "defense": 62,
+     "image": "kevin2",
++    "imagePath": "images/t2/emperadores/kevin2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Shadow Cimmerian",
+     "nickname": "Shadow",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 95,
+     "speed": 95,
+     "control": 95,
+     "defense": 95,
+     "image": "shadow",
++    "imagePath": "images/t1/raimon/shadow.png",
+     "season": [
+       "T1",
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DF",
+       "MC"
+     ]
+   },
+   {
+     "name": "Caleb Stonewall",
+     "nickname": "Caleb",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 76,
+     "speed": 84,
+     "control": 89,
+     "defense": 83,
+     "image": "caleb",
++    "imagePath": "images/t2/royalredux/caleb.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Archer Hawkins",
+     "nickname": "Archer",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 79,
+     "speed": 76,
+     "control": 62,
+     "defense": 85,
+     "image": "archer",
++    "imagePath": "images/t3/inazumajapan/archer.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jim Wraith",
+     "nickname": "Jim",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 60,
+     "speed": 64,
+     "control": 60,
+     "defense": 79,
+     "image": "jim",
++    "imagePath": "images/t1/raimon/jim.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Maxwell Carson",
+     "nickname": "Max",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 70,
+     "speed": 80,
+     "control": 78,
+     "defense": 70,
+     "image": "max",
++    "imagePath": "images/t1/raimon/max.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Maxwell Carson",
+     "nickname": "Max",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 70,
+     "speed": 80,
+     "control": 88,
+     "defense": 70,
+     "image": "max2",
++    "imagePath": "images/t2/emperadores/max2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Sam Kincaid",
+     "nickname": "Sam",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 71,
+     "speed": 75,
+     "control": 75,
+     "defense": 71,
+     "image": "sam",
++    "imagePath": "images/t1/raimon/sam.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "Sam Kincaid",
+     "nickname": "Sam",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 71,
+     "speed": 75,
+     "control": 75,
+     "defense": 81,
+     "image": "sam2",
++    "imagePath": "images/t2/emperadores/sam2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Steve Grimm",
+     "nickname": "Steve",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 68,
+     "speed": 77,
+     "control": 78,
+     "defense": 70,
+     "image": "steve",
++    "imagePath": "images/t1/raimon/steve.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Steve Grimm",
+     "nickname": "Steve",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 68,
+     "speed": 77,
+     "control": 88,
+     "defense": 70,
+     "image": "steve2",
++    "imagePath": "images/t2/emperadores/steve2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Tim Saunders",
+     "nickname": "Timmy",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 75,
+     "speed": 80,
+     "control": 76,
+     "defense": 70,
+     "image": "timmy",
++    "imagePath": "images/t1/raimon/timmy.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Tim Saunders",
+     "nickname": "Timmy",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 75,
+     "speed": 90,
+     "control": 76,
+     "defense": 72,
+     "image": "timmy2",
++    "imagePath": "images/t2/emperadores/timmy2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Tod Ironside",
+     "nickname": "Tod",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 68,
+     "speed": 78,
+     "control": 74,
+     "defense": 75,
+     "image": "tod",
++    "imagePath": "images/t1/raimon/tod.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Tod Ironside",
+     "nickname": "Tod",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 68,
+     "speed": 78,
+     "control": 74,
+     "defense": 85,
+     "image": "tod2",
++    "imagePath": "images/t2/emperadores/tod2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "William Glass",
+     "nickname": "Willy",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 49,
+     "speed": 38,
+     "control": 43,
+     "defense": 2,
+     "image": "willy",
++    "imagePath": "images/t1/raimon/willy.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Thomas Feldt",
+     "nickname": "Feldt",
+     "position": "PT",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 69,
+     "speed": 74,
+     "control": 78,
+     "defense": 85,
+     "image": "feldt",
++    "imagePath": "images/t1/brain/feldt.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Nathan Jones",
+     "nickname": "Mask",
+     "position": "PT",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 63,
+     "speed": 79,
+     "control": 75,
+     "defense": 80,
+     "image": "mask",
++    "imagePath": "images/t1/occult/mask.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Troy Moon",
+     "nickname": "Wolfy",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 78,
+     "speed": 86,
+     "control": 79,
+     "defense": 70,
+     "image": "wolfy",
++    "imagePath": "images/t1/occult/wolfy.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "DL"
+     ]
+   },
+   {
+     "name": "Russell Walk",
+     "nickname": "Styx",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 62,
+     "speed": 77,
+     "control": 70,
+     "defense": 79,
+     "image": "styx",
++    "imagePath": "images/t1/occult/styx.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jason Jones",
+     "nickname": "Creepy",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 58,
+     "speed": 76,
+     "control": 68,
+     "defense": 71,
+     "image": "creepy",
++    "imagePath": "images/t1/occult/creepy.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ken Furan",
+     "nickname": "Franky",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 50,
+     "speed": 46,
+     "control": 65,
+     "defense": 79,
+     "image": "franky",
++    "imagePath": "images/t1/occult/franky.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "PT"
+     ]
+   },
+   {
+     "name": "Jerry Fulton",
+     "nickname": "Undead",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 51,
+     "speed": 55,
+     "control": 59,
+     "defense": 77,
+     "image": "undead",
++    "imagePath": "images/t1/occult/undead.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ray Mannigs",
+     "nickname": "Jiangshi",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 65,
+     "speed": 78,
+     "control": 70,
+     "defense": 62,
+     "image": "jiangshi",
++    "imagePath": "images/t1/occult/jiangshi.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Robert Mayer",
+     "nickname": "Mummy",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 66,
+     "speed": 73,
+     "control": 71,
+     "defense": 64,
+     "image": "mummy",
++    "imagePath": "images/t1/occult/mummy.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Alexander Brave",
+     "nickname": "Grave",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 55,
+     "speed": 77,
+     "control": 67,
+     "defense": 78,
+     "image": "grave",
++    "imagePath": "images/t1/occult/grave.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "Johan Tassman",
+     "nickname": "Talisman",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 85,
+     "speed": 83,
+     "control": 75,
+     "defense": 65,
+     "image": "talisman",
++    "imagePath": "images/t1/occult/talisman.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Burt Wolf",
+     "nickname": "Blood",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 79,
+     "speed": 83,
+     "control": 77,
+     "defense": 75,
+     "image": "blood",
++    "imagePath": "images/t1/occult/blood.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "DL"
+     ]
+   },
+   {
+     "name": "Paul Siddon",
+     "nickname": "Poseidon",
+     "position": "PT",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 68,
+     "speed": 63,
+     "control": 78,
+     "defense": 86,
+     "image": "poseidon",
++    "imagePath": "images/t1/zeus/poseidon.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Apollo Light",
+     "nickname": "Apollo",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 65,
+     "speed": 85,
+     "control": 72,
+     "defense": 80,
+     "image": "apollo",
++    "imagePath": "images/t1/zeus/apollo.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jeff Iron",
+     "nickname": "Hephestus",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 79,
+     "speed": 87,
+     "control": 77,
+     "defense": 77,
+     "image": "jeff",
++    "imagePath": "images/t1/zeus/jeff.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Lane War",
+     "nickname": "Ares",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 65,
+     "speed": 79,
+     "control": 75,
+     "defense": 86,
+     "image": "ares",
++    "imagePath": "images/t1/zeus/ares.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Danny Wood",
+     "nickname": "Dionysus",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 65,
+     "speed": 74,
+     "control": 78,
+     "defense": 87,
+     "image": "dionysus",
++    "imagePath": "images/t1/zeus/dionysus.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Artie Mishman",
+     "nickname": "Artemis",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 75,
+     "speed": 85,
+     "control": 82,
+     "defense": 75,
+     "image": "artemis",
++    "imagePath": "images/t1/zeus/artemis.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Arion Matlock",
+     "nickname": "Hermes",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 73,
+     "speed": 82,
+     "control": 83,
+     "defense": 78,
+     "image": "hermes",
++    "imagePath": "images/t1/zeus/hermes.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Wesley Knox",
+     "nickname": "Athena",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 79,
+     "speed": 85,
+     "control": 82,
+     "defense": 72,
+     "image": "athena",
++    "imagePath": "images/t1/zeus/athena.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jonas Demetrius",
+     "nickname": "Demeter",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 88,
+     "speed": 82,
+     "control": 78,
+     "defense": 70,
+     "image": "demeter",
++    "imagePath": "images/t1/zeus/demeter.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Henry House",
+     "nickname": "Hera",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 82,
+     "speed": 84,
+     "control": 84,
+     "defense": 73,
+     "image": "hera",
++    "imagePath": "images/t1/zeus/hera.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DL",
+       "DF"
+     ]
+   },
+   {
+     "name": "Peter Drent",
+     "nickname": "Drent",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 69,
+     "control": 72,
+     "defense": 84,
+     "image": "drent",
++    "imagePath": "images/t1/royal/drent.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ben Simmons",
+     "nickname": "Simmons",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 60,
+     "speed": 76,
+     "control": 74,
+     "defense": 79,
+     "image": "simmons",
++    "imagePath": "images/t1/royal/simmons.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Alan Master",
+     "nickname": "Master",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 68,
+     "speed": 82,
+     "control": 78,
+     "defense": 77,
+     "image": "master",
++    "imagePath": "images/t1/royal/master.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "Gus Martin",
+     "nickname": "Martin",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 66,
+     "speed": 78,
+     "control": 79,
+     "defense": 79,
+     "image": "martin",
++    "imagePath": "images/t1/royal/martin.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Herman Waldon",
+     "nickname": "Waldon",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 67,
+     "speed": 78,
+     "control": 78,
+     "defense": 78,
+     "image": "waldon",
++    "imagePath": "images/t1/royal/waldon.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "John Bloom",
+     "nickname": "Bloom",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 74,
+     "speed": 84,
+     "control": 77,
+     "defense": 70,
+     "image": "bloom",
++    "imagePath": "images/t1/royal/bloom.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Derek Swing",
+     "nickname": "Swing",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 74,
+     "speed": 86,
+     "control": 77,
+     "defense": 70,
+     "image": "swing",
++    "imagePath": "images/t1/royal/swing.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Daniel Hatch",
+     "nickname": "Hatch",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 80,
+     "speed": 80,
+     "control": 75,
+     "defense": 75,
+     "image": "hatch",
++    "imagePath": "images/t1/royal/hatch.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "David Samford",
+     "nickname": "Samford",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 90,
+     "speed": 85,
+     "control": 80,
+     "defense": 67,
+     "image": "samford2",
++    "imagePath": "images/t2/royalredux/samford2.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "David Samford",
+     "nickname": "Samford",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 84,
+     "speed": 85,
+     "control": 80,
+     "defense": 67,
+     "image": "samford",
++    "imagePath": "images/t1/royal/samford.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "John Neville",
+     "nickname": "Neville",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 64,
+     "speed": 63,
+     "control": 73,
+     "defense": 84,
+     "image": "neville",
++    "imagePath": "images/t1/kirkwood/neville.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Malcolm Night",
+     "nickname": "Night",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 75,
+     "speed": 80,
+     "control": 77,
+     "defense": 80,
+     "image": "night",
++    "imagePath": "images/t1/kirkwood/night.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Alfred Meenan",
+     "nickname": "Meenan",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 64,
+     "speed": 82,
+     "control": 76,
+     "defense": 82,
+     "image": "meenan",
++    "imagePath": "images/t1/kirkwood/meenan.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Dan Mirthful",
+     "nickname": "Mirthful",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 60,
+     "speed": 72,
+     "control": 75,
+     "defense": 79,
+     "image": "mirthful",
++    "imagePath": "images/t1/kirkwood/mirthful.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ricky Clover",
+     "nickname": "Clover",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 64,
+     "speed": 77,
+     "control": 76,
+     "defense": 81,
+     "image": "clover",
++    "imagePath": "images/t1/kirkwood/clover.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Toby Damian",
+     "nickname": "Damian",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 74,
+     "speed": 85,
+     "control": 79,
+     "defense": 73,
+     "image": "damian",
++    "imagePath": "images/t1/kirkwood/damian.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "York Nashmith",
+     "nickname": "Nashmith",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 73,
+     "speed": 79,
+     "control": 80,
+     "defense": 70,
+     "image": "nashmith",
++    "imagePath": "images/t1/kirkwood/nashmith.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Zachary Moore",
+     "nickname": "Moore",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 72,
+     "speed": 80,
+     "control": 76,
+     "defense": 72,
+     "image": "moore",
++    "imagePath": "images/t1/kirkwood/moore.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Marvin Murdock",
+     "nickname": "Marvin",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 86,
+     "speed": 83,
+     "control": 79,
+     "defense": 62,
+     "image": "marvin",
++    "imagePath": "images/t1/kirkwood/marvin.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Thomas Murdock",
+     "nickname": "Thomas",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 82,
+     "speed": 80,
+     "control": 77,
+     "defense": 70,
+     "image": "thomas",
++    "imagePath": "images/t1/kirkwood/thomas.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Tyler Murdock",
+     "nickname": "Tyler",
+     "position": "DL",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 84,
+     "speed": 85,
+     "control": 76,
+     "defense": 66,
+     "image": "tyler",
++    "imagePath": "images/t1/kirkwood/tyler.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Harry Leading",
+     "nickname": "Leading",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 66,
+     "speed": 81,
+     "control": 74,
+     "defense": 77,
+     "image": "leading",
++    "imagePath": "images/t1/brain/leading.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Terry Stronger",
+     "nickname": "Stronger",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 68,
+     "speed": 80,
+     "control": 72,
+     "defense": 81,
+     "image": "stronger",
++    "imagePath": "images/t1/brain/stronger.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Philip Marvel",
+     "nickname": "Marvel",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 65,
+     "speed": 78,
+     "control": 76,
+     "defense": 79,
+     "image": "marvel",
++    "imagePath": "images/t1/brain/marvel.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Noel Good",
+     "nickname": "Good",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 62,
+     "speed": 68,
+     "control": 78,
+     "defense": 82,
+     "image": "good",
++    "imagePath": "images/t1/brain/good.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Tyron Rock",
+     "nickname": "Rock",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 75,
+     "speed": 77,
+     "control": 80,
+     "defense": 74,
+     "image": "rock",
++    "imagePath": "images/t1/brain/rock.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Francis Tell",
+     "nickname": "Tell",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 72,
+     "speed": 79,
+     "control": 79,
+     "defense": 79,
+     "image": "tell",
++    "imagePath": "images/t1/brain/tell.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Samuel Buster",
+     "nickname": "Busta",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 78,
+     "speed": 83,
+     "control": 80,
+     "defense": 72,
+     "image": "busta",
++    "imagePath": "images/t1/brain/busta.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jonathan Seller",
+     "nickname": "Seller",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 83,
+     "speed": 82,
+     "control": 75,
+     "defense": 65,
+     "image": "seller",
++    "imagePath": "images/t1/brain/seller.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Victor Kind",
+     "nickname": "Kind",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 76,
+     "speed": 80,
+     "control": 79,
+     "defense": 73,
+     "image": "kind",
++    "imagePath": "images/t1/brain/kind.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Neil Turner",
+     "nickname": "Turner",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 86,
+     "speed": 84,
+     "control": 77,
+     "defense": 68,
+     "image": "turner",
++    "imagePath": "images/t1/brain/turner.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Sam Idol",
+     "nickname": "Idol",
+     "position": "PT",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 56,
+     "speed": 58,
+     "control": 60,
+     "defense": 76,
+     "image": "idol",
++    "imagePath": "images/t1/otaku/idol.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Marcus Train",
+     "nickname": "Train",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 61,
+     "speed": 73,
+     "control": 70,
+     "defense": 75,
+     "image": "train",
++    "imagePath": "images/t1/otaku/train.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Light Nobel",
+     "nickname": "Novel",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 60,
+     "speed": 66,
+     "control": 75,
+     "defense": 79,
+     "image": "novel",
++    "imagePath": "images/t1/otaku/novel.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Walter Valiant",
+     "nickname": "Hero",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 68,
+     "speed": 78,
+     "control": 76,
+     "defense": 77,
+     "image": "hero",
++    "imagePath": "images/t1/otaku/hero.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Spencer Gates",
+     "nickname": "Cosplay",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 65,
+     "control": 73,
+     "defense": 77,
+     "image": "cosplay",
++    "imagePath": "images/t1/otaku/cosplay.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Josh Spear",
+     "nickname": "Online",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 69,
+     "speed": 69,
+     "control": 69,
+     "defense": 58,
+     "image": "online",
++    "imagePath": "images/t1/otaku/online.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gaby Farmer",
+     "nickname": "Custom",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 69,
+     "speed": 72,
+     "control": 66,
+     "defense": 55,
+     "image": "custom",
++    "imagePath": "images/t1/otaku/custom.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Anthony Woodbridge",
+     "nickname": "Robot",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 66,
+     "speed": 76,
+     "control": 72,
+     "defense": 66,
+     "image": "robot",
++    "imagePath": "images/t1/otaku/robot.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gus Gamer",
+     "nickname": "Gamer",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 79,
+     "speed": 78,
+     "control": 72,
+     "defense": 61,
+     "image": "gaymer",
++    "imagePath": "images/t1/otaku/gaymer.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Mark Gambling",
+     "nickname": "Artist",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 78,
+     "speed": 77,
+     "control": 75,
+     "defense": 64,
+     "image": "artist",
++    "imagePath": "images/t1/otaku/artist.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Theodore Master",
+     "nickname": "Arcade",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 71,
+     "speed": 76,
+     "control": 74,
+     "defense": 60,
+     "image": "arcade",
++    "imagePath": "images/t1/otaku/arcade.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Charlie Boardfield",
+     "nickname": "Boar",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 66,
+     "speed": 74,
+     "control": 72,
+     "defense": 79,
+     "image": "boar",
++    "imagePath": "images/t1/wild/boar.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Hugo Talgeese",
+     "nickname": "Chiken",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 73,
+     "speed": 86,
+     "control": 79,
+     "defense": 80,
+     "image": "chiken",
++    "imagePath": "images/t1/wild/chiken.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Wilson Fishman",
+     "nickname": "Fishman",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 64,
+     "speed": 76,
+     "control": 74,
+     "defense": 76,
+     "image": "fishman",
++    "imagePath": "images/t1/wild/fishman.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Peter Johnson",
+     "nickname": "Toad",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 65,
+     "speed": 77,
+     "control": 72,
+     "defense": 78,
+     "image": "toad",
++    "imagePath": "images/t1/wild/toad.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Leonard O'Shea",
+     "nickname": "Lion",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 79,
+     "control": 72,
+     "defense": 82,
+     "image": "lion",
++    "imagePath": "images/t1/wild/lion.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Cham Lion",
+     "nickname": "Chameleon",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 68,
+     "speed": 77,
+     "control": 77,
+     "defense": 72,
+     "image": "chameleon",
++    "imagePath": "images/t1/wild/chameleon.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Steve Eagle",
+     "nickname": "Eagle",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 78,
+     "speed": 85,
+     "control": 79,
+     "defense": 73,
+     "image": "eagle",
++    "imagePath": "images/t1/wild/eagle.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Bruce Monkey",
+     "nickname": "Monkey",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 70,
+     "speed": 83,
+     "control": 80,
+     "defense": 75,
+     "image": "monkey",
++    "imagePath": "images/t1/wild/monkey.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gary Lancaster",
+     "nickname": "Gorilla",
+     "position": "DL",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 83,
+     "speed": 80,
+     "control": 75,
+     "defense": 70,
+     "image": "gorilla",
++    "imagePath": "images/t1/wild/gorilla.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Harry Snake",
+     "nickname": "Snake",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 80,
+     "speed": 81,
+     "control": 77,
+     "defense": 64,
+     "image": "snake",
++    "imagePath": "images/t1/wild/snake.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Adrian Speed",
+     "nickname": "Cheetah",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 82,
+     "speed": 90,
+     "control": 75,
+     "defense": 62,
+     "image": "cheetah",
++    "imagePath": "images/t1/wild/cheetah.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Morgan Sanders",
+     "nickname": "Hood",
+     "position": "PT",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 73,
+     "speed": 80,
+     "control": 72,
+     "defense": 82,
+     "image": "hood",
++    "imagePath": "images/t1/shuriken/hood.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Newton Flust",
+     "nickname": "Crackshot",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 65,
+     "speed": 87,
+     "control": 74,
+     "defense": 79,
+     "image": "crackshot",
++    "imagePath": "images/t1/shuriken/crackshot.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jim Hillfort",
+     "nickname": "Hillfort",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 66,
+     "speed": 85,
+     "control": 75,
+     "defense": 78,
+     "image": "hillfort",
++    "imagePath": "images/t1/shuriken/hillfort.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Galen Thunderbird",
+     "nickname": "Thunder",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 80,
+     "control": 75,
+     "defense": 81,
+     "image": "thunder",
++    "imagePath": "images/t1/shuriken/thunder.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Finn Stoned",
+     "nickname": "Bandit",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 63,
+     "speed": 80,
+     "control": 72,
+     "defense": 84,
+     "image": "bandit",
++    "imagePath": "images/t1/shuriken/bandit.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Phil Wingate",
+     "nickname": "Code",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 70,
+     "speed": 86,
+     "control": 80,
+     "defense": 79,
+     "image": "code",
++    "imagePath": "images/t1/shuriken/code.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jez Shell",
+     "nickname": "Star",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 74,
+     "speed": 89,
+     "control": 78,
+     "defense": 76,
+     "image": "star",
++    "imagePath": "images/t1/shuriken/star.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jupiter Jumper",
+     "nickname": "Cleats",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 76,
+     "speed": 89,
+     "control": 78,
+     "defense": 74,
+     "image": "cleats",
++    "imagePath": "images/t1/shuriken/cleats.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Sam Samurai",
+     "nickname": "Samurai",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 83,
+     "speed": 85,
+     "control": 77,
+     "defense": 63,
+     "image": "samurai",
++    "imagePath": "images/t1/shuriken/samurai.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Hank Sullivan",
+     "nickname": "Hattori",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 79,
+     "speed": 86,
+     "control": 83,
+     "defense": 74,
+     "image": "hattori",
++    "imagePath": "images/t1/shuriken/hattori.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Sail Bluesea",
+     "nickname": "Cloak",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 87,
+     "speed": 91,
+     "control": 80,
+     "defense": 62,
+     "image": "cloak",
++    "imagePath": "images/t1/shuriken/cloak.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Albert Green",
+     "nickname": "Greeny",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 71,
+     "speed": 76,
+     "control": 74,
+     "defense": 86,
+     "image": "greeny",
++    "imagePath": "images/t1/farm/greeny.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Seward Hayseed",
+     "nickname": "Hayseed",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 65,
+     "speed": 78,
+     "control": 75,
+     "defense": 79,
+     "image": "hayseed",
++    "imagePath": "images/t1/farm/hayseed.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Kent Work",
+     "nickname": "Work",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 65,
+     "speed": 80,
+     "control": 72,
+     "defense": 80,
+     "image": "work",
++    "imagePath": "images/t1/farm/work.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Mark Hillvalley",
+     "nickname": "Hillvalley",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 66,
+     "speed": 72,
+     "control": 76,
+     "defense": 84,
+     "image": "hillvalley",
++    "imagePath": "images/t1/farm/hillvalley.png",
+     "season": [
+       "T1",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Herb Sherman",
+     "nickname": "Sherman",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 64,
+     "speed": 79,
+     "control": 75,
+     "defense": 81,
+     "image": "sherman",
++    "imagePath": "images/t1/farm/sherman.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Joe Small",
+     "nickname": "Milky",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 69,
+     "speed": 82,
+     "control": 77,
+     "defense": 82,
+     "image": "milky",
++    "imagePath": "images/t1/farm/milky.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ike Steiner",
+     "nickname": "Mother",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 70,
+     "speed": 77,
+     "control": 77,
+     "defense": 70,
+     "image": "mother",
++    "imagePath": "images/t1/farm/mother.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Orville Newman",
+     "nickname": "Spray",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 70,
+     "speed": 75,
+     "control": 79,
+     "defense": 79,
+     "image": "spray",
++    "imagePath": "images/t1/farm/spray.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Tom Walters",
+     "nickname": "Roast",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 77,
+     "speed": 81,
+     "control": 83,
+     "defense": 77,
+     "image": "roast",
++    "imagePath": "images/t1/farm/roast.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Daniel Dawson",
+     "nickname": "Dawson",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 76,
+     "speed": 83,
+     "control": 79,
+     "defense": 71,
+     "image": "dawson",
++    "imagePath": "images/t1/farm/dawson.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Stuart Racoonfur",
+     "nickname": "Muffs",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 83,
+     "speed": 81,
+     "control": 77,
+     "defense": 66,
+     "image": "muffs",
++    "imagePath": "images/t1/farm/muffs.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Iggy Russ",
+     "nickname": "Icarus",
+     "position": "PT",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 68,
+     "speed": 78,
+     "control": 74,
+     "defense": 82,
+     "image": "icarus",
++    "imagePath": "images/t1/zeus/icarus.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gus Heeley",
+     "nickname": "Achilles",
+     "position": "DL",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 83,
+     "speed": 80,
+     "control": 73,
+     "defense": 61,
+     "image": "achilles",
++    "imagePath": "images/t1/zeus/achilles.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Harry Closs",
+     "nickname": "Heracles",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 71,
+     "speed": 76,
+     "control": 75,
+     "defense": 80,
+     "image": "heracles",
++    "imagePath": "images/t1/zeus/heracles.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Andy Chronic",
+     "nickname": "Chronos",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 68,
+     "speed": 81,
+     "control": 75,
+     "defense": 78,
+     "image": "chronos",
++    "imagePath": "images/t1/zeus/chronos.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ned Yousef",
+     "nickname": "Medusa",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 77,
+     "speed": 81,
+     "control": 80,
+     "defense": 74,
+     "image": "medusa",
++    "imagePath": "images/t1/zeus/medusa.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Grant Eldorado",
+     "nickname": "Eldorado",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 77,
+     "speed": 76,
+     "control": 72,
+     "defense": 76,
+     "image": "eldorado",
++    "imagePath": "images/t1/otaku/eldorado.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "DL"
+     ]
+   },
+   {
+     "name": "Mike Vox",
+     "nickname": "Vox",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 64,
+     "speed": 75,
+     "control": 73,
+     "defense": 75,
+     "image": "vox",
++    "imagePath": "images/t1/otaku/vox.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Simon Calier",
+     "nickname": "Calier",
+     "position": "PT",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 75,
+     "speed": 78,
+     "control": 77,
+     "defense": 76,
+     "image": "calier",
++    "imagePath": "images/t1/kirkwood/calier.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Barry Potts",
+     "nickname": "Potts",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 74,
+     "speed": 72,
+     "control": 76,
+     "defense": 73,
+     "image": "potts",
++    "imagePath": "images/t1/royal/potts.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Alan Cole",
+     "nickname": "Koala",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 72,
+     "speed": 77,
+     "control": 75,
+     "defense": 71,
+     "image": "koala",
++    "imagePath": "images/t1/wild/koala.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Philip Anders",
+     "nickname": "Panda",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 78,
+     "speed": 78,
+     "control": 75,
+     "defense": 62,
+     "image": "panda",
++    "imagePath": "images/t1/wild/panda.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "John Reynolds",
+     "nickname": "Ronin",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 78,
+     "speed": 80,
+     "control": 72,
+     "defense": 62,
+     "image": "ronin",
++    "imagePath": "images/t1/shuriken/ronin.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Paul Peabody",
+     "nickname": "Peabody",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 71,
+     "speed": 77,
+     "control": 75,
+     "defense": 80,
+     "image": "peabody",
++    "imagePath": "images/t1/raimon/peabody.png",
+     "season": [
+       "T1"
+     ],
+     "secondaryPositions": [
+       "PT"
+     ]
+   },
+   {
+     "name": "Darren LaChance",
+     "nickname": "Darren",
+     "position": "PT",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 65,
+     "speed": 78,
+     "control": 76,
+     "defense": 87,
+     "image": "darren",
++    "imagePath": "images/t2/raimon/darren.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Hurley Kane",
+     "nickname": "Hurley",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 82,
+     "speed": 82,
+     "control": 76,
+     "defense": 81,
+     "image": "hurley",
++    "imagePath": "images/t2/raimon/hurley.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Scott Banyan",
+     "nickname": "Scotty",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 66,
+     "speed": 86,
+     "control": 73,
+     "defense": 81,
+     "image": "scotty",
++    "imagePath": "images/t2/raimon/scotty.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Suzette Hartland",
+     "nickname": "Sue",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 80,
+     "speed": 79,
+     "control": 74,
+     "defense": 63,
+     "image": "sue",
++    "imagePath": "images/t2/raimon/sue.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Victoria Vanguard",
+     "nickname": "Tori",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 75,
+     "speed": 77,
+     "control": 78,
+     "defense": 82,
+     "image": "tori",
++    "imagePath": "images/t2/raimon/tori.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Eugene Conwell",
+     "nickname": "Conwell",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 78,
+     "speed": 77,
+     "control": 74,
+     "defense": 64,
+     "image": "conwell",
++    "imagePath": "images/t2/raimon/conwell.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Joe Ingram",
+     "nickname": "Ingram",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 61,
+     "speed": 75,
+     "control": 68,
+     "defense": 71,
+     "image": "ingram",
++    "imagePath": "images/t1/umbrella/ingram.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Kendall Sefton",
+     "nickname": "Sefton",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 64,
+     "speed": 76,
+     "control": 67,
+     "defense": 72,
+     "image": "sefton",
++    "imagePath": "images/t1/umbrella/sefton.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jason Strike",
+     "nickname": "Strike",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 63,
+     "speed": 75,
+     "control": 65,
+     "defense": 72,
+     "image": "strike",
++    "imagePath": "images/t1/umbrella/strike.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Norman Porter",
+     "nickname": "Porter",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 67,
+     "control": 65,
+     "defense": 73,
+     "image": "porter",
++    "imagePath": "images/t1/umbrella/porter.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Maxwell Claus",
+     "nickname": "Chops",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 63,
+     "speed": 74,
+     "control": 68,
+     "defense": 71,
+     "image": "chops",
++    "imagePath": "images/t1/umbrella/chops.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Bruce Chaney",
+     "nickname": "Chaney",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 69,
+     "speed": 75,
+     "control": 71,
+     "defense": 70,
+     "image": "chaney",
++    "imagePath": "images/t1/umbrella/chaney.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Leroy Rhymes",
+     "nickname": "Rhymes",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 66,
+     "speed": 78,
+     "control": 73,
+     "defense": 65,
+     "image": "rhymes",
++    "imagePath": "images/t1/umbrella/rhymes.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Mildford Scott",
+     "nickname": "Scott",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 65,
+     "speed": 74,
+     "control": 71,
+     "defense": 63,
+     "image": "scott",
++    "imagePath": "images/t1/umbrella/scott.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Lou Edmonds",
+     "nickname": "Edmonds",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 74,
+     "speed": 75,
+     "control": 70,
+     "defense": 62,
+     "image": "edmonds",
++    "imagePath": "images/t1/umbrella/edmonds.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Cameron Morefield",
+     "nickname": "Morefield",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 72,
+     "speed": 77,
+     "control": 75,
+     "defense": 67,
+     "image": "morefield",
++    "imagePath": "images/t1/umbrella/morefield.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Greg Bernard",
+     "nickname": "Cyborg",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 77,
+     "speed": 79,
+     "control": 76,
+     "defense": 64,
+     "image": "cyborg",
++    "imagePath": "images/t1/umbrella/cyborg.png",
+     "season": [
+       "T1",
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gordon Star",
+     "nickname": "Galileo",
+     "position": "PT",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 68,
+     "speed": 78,
+     "control": 74,
+     "defense": 82,
+     "image": "galileo",
++    "imagePath": "images/t2/tormentag/galileo.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Connor Shuttle",
+     "nickname": "Coral",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 69,
+     "speed": 81,
+     "control": 73,
+     "defense": 78,
+     "image": "coral",
++    "imagePath": "images/t2/tormentag/coral.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jim Leading",
+     "nickname": "Gigs",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 66,
+     "speed": 77,
+     "control": 71,
+     "defense": 77,
+     "image": "gigs",
++    "imagePath": "images/t2/tormentag/gigs.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Grant Icewater",
+     "nickname": "Ganymede",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 71,
+     "speed": 76,
+     "control": 76,
+     "defense": 78,
+     "image": "ganymede",
++    "imagePath": "images/t2/tormentag/ganymede.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Charles Riverboat",
+     "nickname": "Charon",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 67,
+     "speed": 81,
+     "control": 74,
+     "defense": 78,
+     "image": "charon",
++    "imagePath": "images/t2/tormentag/charon.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Pat Box",
+     "nickname": "Pandora",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 70,
+     "speed": 84,
+     "control": 77,
+     "defense": 79,
+     "image": "pandero",
++    "imagePath": "images/t2/tormentag/pandero.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gregory Saturn",
+     "nickname": "Grengo",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 76,
+     "speed": 85,
+     "control": 80,
+     "defense": 73,
+     "image": "grengo",
++    "imagePath": "images/t2/tormentag/grengo.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Izzy Jupiter",
+     "nickname": "Io",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 75,
+     "speed": 80,
+     "control": 78,
+     "defense": 75,
+     "image": "io",
++    "imagePath": "images/t2/tormentag/io.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Rhona Countdown",
+     "nickname": "Rhim",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 84,
+     "speed": 82,
+     "control": 76,
+     "defense": 65,
+     "image": "rhim",
++    "imagePath": "images/t2/tormentag/rhim.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jordan Greenway",
+     "nickname": "Janus",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 85,
+     "speed": 86,
+     "control": 84,
+     "defense": 70,
+     "image": "janus",
++    "imagePath": "images/t2/tormentag/janus.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Jordan Greenway",
+     "nickname": "Jordan",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 82,
+     "speed": 86,
+     "control": 88,
+     "defense": 72,
+     "image": "jordan",
++    "imagePath": "images/t3/inazumajapan/jordan.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Dylan Bluemoon",
+     "nickname": "Diam",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 84,
+     "speed": 84,
+     "control": 78,
+     "defense": 60,
+     "image": "diam",
++    "imagePath": "images/t2/tormentag/diam.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Alfonso Íñigo",
+     "nickname": "Íñigo",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 74,
+     "speed": 77,
+     "control": 74,
+     "defense": 88,
+     "image": "inigo",
++    "imagePath": "images/t3/losrojos/inigo.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "José Costa",
+     "nickname": "Costa",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 67,
+     "speed": 86,
+     "control": 72,
+     "defense": 82,
+     "image": "costa",
++    "imagePath": "images/t3/losrojos/costa.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "José López",
+     "nickname": "López",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 65,
+     "speed": 81,
+     "control": 75,
+     "defense": 83,
+     "image": "lopez",
++    "imagePath": "images/t3/losrojos/lopez.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Antonio Garrido",
+     "nickname": "Garrido",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 62,
+     "speed": 80,
+     "control": 74,
+     "defense": 82,
+     "image": "garrido",
++    "imagePath": "images/t3/losrojos/garrido.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Victor García",
+     "nickname": "García",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 80,
+     "speed": 85,
+     "control": 77,
+     "defense": 87,
+     "image": "garcia",
++    "imagePath": "images/t3/losrojos/garcia.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Joan Rodríguez",
+     "nickname": "Rodríguez",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 72,
+     "speed": 78,
+     "control": 85,
+     "defense": 84,
+     "image": "rodri",
++    "imagePath": "images/t3/losrojos/rodri.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Igor Ferreira",
+     "nickname": "Ferreira",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 78,
+     "speed": 84,
+     "control": 84,
+     "defense": 73,
+     "image": "ferreira",
++    "imagePath": "images/t3/losrojos/ferreira.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Miguel Pereira",
+     "nickname": "Pereira",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 76,
+     "speed": 87,
+     "control": 83,
+     "defense": 76,
+     "image": "pereira",
++    "imagePath": "images/t3/losrojos/pereira.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Borja Costa",
+     "nickname": "Borja",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 81,
+     "speed": 86,
+     "control": 82,
+     "defense": 70,
+     "image": "borja",
++    "imagePath": "images/t3/losrojos/borja.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Mateo Bonachea",
+     "nickname": "Bonachea",
+     "position": "DL",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 87,
+     "speed": 82,
+     "control": 76,
+     "defense": 64,
+     "image": "bonachea",
++    "imagePath": "images/t3/losrojos/bonachea.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Miguel Jiménez",
+     "nickname": "Jiménez",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 85,
+     "speed": 83,
+     "control": 74,
+     "defense": 62,
+     "image": "jimenez",
++    "imagePath": "images/t3/losrojos/jimenez.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Juan Espindola",
+     "nickname": "Espindola",
+     "position": "PT",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 66,
+     "speed": 80,
+     "control": 75,
+     "defense": 81,
+     "image": "espindola",
++    "imagePath": "images/t3/losrojos/espindola.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Isaac César",
+     "nickname": "César",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 83,
+     "speed": 85,
+     "control": 77,
+     "defense": 65,
+     "image": "cesar",
++    "imagePath": "images/t3/losrojos/cesar.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Laudelino Castor",
+     "nickname": "Castor",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 62,
+     "speed": 80,
+     "control": 71,
+     "defense": 79,
+     "image": "castor",
++    "imagePath": "images/t3/losrojos/castor.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Carlos Arroyo",
+     "nickname": "Arroyo",
+     "position": "MC",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 78,
+     "speed": 84,
+     "control": 83,
+     "defense": 77,
+     "image": "arroyo",
++    "imagePath": "images/t3/losrojos/arroyo.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Federico Rubiera",
+     "nickname": "Rubiera",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 82,
+     "speed": 82,
+     "control": 80,
+     "defense": 64,
+     "image": "rubiera",
++    "imagePath": "images/t3/losrojos/rubiera.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Thor Stoutberg",
+     "nickname": "Thor",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 77,
+     "speed": 75,
+     "control": 80,
+     "defense": 84,
+     "image": "thor",
++    "imagePath": "images/t3/inazumajapan/thor.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": [
+       "DF"
+     ]
+   },
+   {
+     "name": "Austin Hobbes",
+     "nickname": "Austin",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 88,
+     "speed": 87,
+     "control": 78,
+     "defense": 67,
+     "image": "austin",
++    "imagePath": "images/t3/inazumajapan/austin.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Xavier Foster",
+     "nickname": "Xavier",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 91,
+     "speed": 86,
+     "control": 83,
+     "defense": 72,
+     "image": "xavier",
++    "imagePath": "images/t3/inazumajapan/xavier.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": [
+       "MC"
+     ]
+   },
+   {
+     "name": "Xavier Foster",
+     "nickname": "Xene",
+     "position": "DL",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 90,
+     "speed": 90,
+     "control": 74,
+     "defense": 60,
+     "image": "xene",
++    "imagePath": "images/t2/genesis/xene.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Isabelle Trick",
+     "nickname": "Bellatrix",
+     "position": "MC",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 86,
+     "speed": 92,
+     "control": 88,
+     "defense": 70,
+     "image": "bellatrix",
++    "imagePath": "images/t2/genesis/bellatrix.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Wilbur Watkins",
+     "nickname": "Wittz",
+     "position": "DL",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 86,
+     "speed": 82,
+     "control": 74,
+     "defense": 67,
+     "image": "wittz",
++    "imagePath": "images/t2/genesis/wittz.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Ashton Malone",
+     "nickname": "Ark",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 80,
+     "speed": 86,
+     "control": 83,
+     "defense": 75,
+     "image": "ark",
++    "imagePath": "images/t2/genesis/ark.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Katie Brown",
+     "nickname": "Kiwill",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 78,
+     "speed": 88,
+     "control": 85,
+     "defense": 76,
+     "image": "kiwill",
++    "imagePath": "images/t2/genesis/kiwill.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Connor Murray",
+     "nickname": "Kormer",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 77,
+     "speed": 85,
+     "control": 84,
+     "defense": 77,
+     "image": "kormer",
++    "imagePath": "images/t2/genesis/kormer.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Hunt Mercer",
+     "nickname": "Hauser",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 70,
+     "speed": 80,
+     "control": 75,
+     "defense": 81,
+     "image": "hauser",
++    "imagePath": "images/t2/genesis/hauser.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Zack Cummings",
+     "nickname": "Zohen",
+     "position": "DF",
+     "element": "earth",
++    "elementImage": "images/elements/earth.png",
+     "kick": 74,
+     "speed": 84,
+     "control": 75,
+     "defense": 86,
+     "image": "zohen",
++    "imagePath": "images/t2/genesis/zohen.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Kim Powell",
+     "nickname": "Kiburn",
+     "position": "DF",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 73,
+     "speed": 88,
+     "control": 73,
+     "defense": 84,
+     "image": "kiburn",
++    "imagePath": "images/t2/genesis/kiburn.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Gail Baker",
+     "nickname": "Gele",
+     "position": "DF",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 68,
+     "speed": 85,
+     "control": 76,
+     "defense": 82,
+     "image": "gail",
++    "imagePath": "images/t2/genesis/gail.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Nelson Rockwell",
+     "nickname": "Nero",
+     "position": "PT",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 70,
+     "speed": 90,
+     "control": 72,
+     "defense": 90,
+     "image": "nero",
++    "imagePath": "images/t2/genesis/nero.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Dave Quagmire",
+     "nickname": "Dvalin",
+     "position": "PT",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 84,
+     "speed": 80,
+     "control": 76,
+     "defense": 87,
+     "image": "dvalin",
++    "imagePath": "images/t2/epsilon/dvalin.png",
+     "season": [
+       "T2"
+     ],
+     "secondaryPositions": [
+       "DL"
+     ]
+   },
+   {
+     "name": "Dave Quagmire",
+     "nickname": "Quagmire",
+     "position": "MC",
+     "element": "fuego",
++    "elementImage": "images/elements/fuego.png",
+     "kick": 89,
+     "speed": 87,
+     "control": 88,
+     "defense": 80,
+     "image": "dave",
++    "imagePath": "images/t3/neo/dave.png",
+     "season": [
+       "T3"
+     ],
+     "secondaryPositions": [
+       "PT",
+       "DL",
+       "DF"
+     ]
+   },
+   {
+     "name": "Argie Bargie",
+     "nickname": "Bargie",
+     "position": "DF",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 67,
+     "speed": 77,
+     "control": 70,
+     "defense": 85,
+     "image": "bargie",
++    "imagePath": "images/t2/royalredux/bargie.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": []
+   },
+   {
+     "name": "Zeke Valanche",
+     "nickname": "Zell",
+     "position": "DL",
+     "element": "aire",
++    "elementImage": "images/elements/aire.png",
+     "kick": 86,
+     "speed": 86,
+     "control": 75,
+     "defense": 83,
+     "image": "zell",
++    "imagePath": "images/t2/epsilon/zell.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "PT"
+     ]
+   },
+   {
+     "name": "Ethan Whitering",
+     "nickname": "Heat",
+     "position": "MC",
+     "element": "bosque",
++    "elementImage": "images/elements/bosque.png",
+     "kick": 76,
+     "speed": 82,
+     "control": 80,
+     "defense": 82,
+     "image": "heat",
++    "imagePath": "images/t2/prominence/heat.png",
+     "season": [
+       "T2",
+       "T3"
+     ],
+     "secondaryPositions": [
+       "PT"
+     ]
+   }
++] 
+EOF
+)
