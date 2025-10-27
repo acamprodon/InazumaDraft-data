@@ -4061,5 +4061,181 @@
     ],
     "secondaryPositions": [],
     "id": 245
+  },
+  {
+    "name": "Spike Gleeson",
+    "nickname": "Gleeson",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 63,
+    "speed": 78,
+    "control": 72,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/gleeson.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 246
+  },
+  {
+    "name": "Maddox Rock",
+    "nickname": "Maddox",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 74,
+    "speed": 79,
+    "control": 77,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/maddox.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 247
+  },
+  {
+    "name": "Robert Skipolson",
+    "nickname": "Skipolson",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 76,
+    "speed": 80,
+    "control": 78,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/skipolson.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 248
+  },
+  {
+    "name": "Quentin Rackner",
+    "nickname": "Rackner",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 80,
+    "speed": 78,
+    "control": 74,
+    "defense": 62,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/rackner.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 249
+  },
+  {
+    "name": "Spike Gleeson",
+    "nickname": "Gleeson",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 63,
+    "speed": 78,
+    "control": 72,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/gleeson.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 246
+  },
+  {
+    "name": "Adam Ropes",
+    "nickname": "Ropes",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 63,
+    "speed": 76,
+    "control": 74,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/ropes.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 250
+  },
+  {
+    "name": "Joaquine Downtown",
+    "nickname": "Downtown",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 74,
+    "speed": 79,
+    "control": 74,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/downtown.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 251
+  },
+  {
+    "name": "Milton Bindings",
+    "nickname": "Bindings",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 67,
+    "speed": 82,
+    "control": 70,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/bindings.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 252
+  },
+  {
+    "name": "Sean Snowfield",
+    "nickname": "Snowfield",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 73,
+    "control": 75,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/snowfield.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 253
+  },
+  {
+    "name": "Kerry Bootgaiter",
+    "nickname": "Bootgaiter",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 70,
+    "speed": 81,
+    "control": 78,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/bootgaiter.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 254
+  },
+  {
+    "name": "Roland Climbstein",
+    "nickname": "Climbstein",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 80,
+    "speed": 80,
+    "control": 78,
+    "defense": 67,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/alpino/climbstein.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 255
   }
 ]
