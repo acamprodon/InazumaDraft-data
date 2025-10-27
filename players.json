@@ -4237,5 +4237,165 @@
     ],
     "secondaryPositions": ["MC"],
     "id": 255
+  },
+  {
+    "name": "Ian Smith",
+    "nickname": "Smith",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 64,
+    "speed": 75,
+    "control": 71,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/smith.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 256
+  },
+  {
+    "name": "Shirley Stevens",
+    "nickname": "Stevens",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 60,
+    "speed": 75,
+    "control": 73,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/stevens.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 257
+  },
+  {
+    "name": "Marshall Firsthand",
+    "nickname": "Firsthand",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 71,
+    "speed": 76,
+    "control": 77,
+    "defense": 72,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/firsthand.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 258
+  },
+  {
+    "name": "Joe Kenneddy",
+    "nickname": "Kenneddy",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 83,
+    "speed": 80,
+    "control": 73,
+    "defense": 68,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/kenneddy.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 259
+  },
+  {
+    "name": "Ken Ironwall",
+    "nickname": "Ironwall",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 60,
+    "speed": 72,
+    "control": 69,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/ironwall.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 260
+  },
+  {
+    "name": "Timothy Western",
+    "nickname": "Western",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 64,
+    "speed": 78,
+    "control": 73,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/western.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 261
+  },
+  {
+    "name": "Wallace Hammond",
+    "nickname": "Hammond",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 66,
+    "speed": 79,
+    "control": 74,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/hammond.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 262
+  },
+  {
+    "name": "Marge Fielding",
+    "nickname": "Agente M",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 77,
+    "speed": 84,
+    "control": 80,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/agentem.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 262
+  },
+  {
+    "name": "Taylor Firepool",
+    "nickname": "Firepool",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 82,
+    "control": 82,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/firepool.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 263
+  },
+  {
+    "name": "Holly Mirror",
+    "nickname": "Mirror",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 83,
+    "speed": 81,
+    "control": 76,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ss/mirror.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 264
   }
 ]
