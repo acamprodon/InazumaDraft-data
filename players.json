@@ -3527,5 +3527,539 @@
     ],
     "secondaryPositions": [],
     "id": 212
+  },
+  {
+    "name": "Rob Crombie",
+    "nickname": "Zombie",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 58,
+    "speed": 60,
+    "control": 67,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t1/occult/zombie.png",
+    "season": [
+      "T1"
+    ],
+    "secondaryPositions": ["DF"],
+    "id": 213
+
+  },
+  {
+    "name": "Phil Noir",
+    "nickname": "Noir",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 77,
+    "control": 70,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t1/occult/noir.png",
+    "season": [
+      "T1"
+    ],
+    "secondaryPositions": [],
+    "id": 214
+
+  },
+  {
+    "name": "Uxley Allen",
+    "nickname": "Alien",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 77,
+    "speed": 75,
+    "control": 71,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t1/occult/alien.png",
+    "season": [
+      "T1"
+    ],
+    "secondaryPositions": [],
+    "id": 215
+
+  },
+  {
+    "name": "Mick Askley",
+    "nickname": "Ghost",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 70,
+    "speed": 76,
+    "control": 77,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t1/occult/ghost.png",
+    "season": [
+      "T1"
+    ],
+    "secondaryPositions": [],
+    "id": 216
+
+  },
+  {
+    "name": "Rowan Beltzer",
+    "nickname": "Beltzer",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 64,
+    "speed": 79,
+    "control": 70,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/beltzer.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 217
+  },
+  {
+    "name": "Blade Healen",
+    "nickname": "Healen",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 68,
+    "speed": 83,
+    "control": 73,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/healen.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 218
+  },
+  {
+    "name": "Lee Bamboo",
+    "nickname": "Bamboo",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 64,
+    "speed": 77,
+    "control": 67,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/bamboo.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 219
+  },
+  {
+    "name": "Sue Sparrow",
+    "nickname": "Sparrow",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 86,
+    "control": 84,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/sparrow.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 220
+  },
+  {
+    "name": "Eton Messer",
+    "nickname": "Messer",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 70,
+    "speed": 77,
+    "control": 78,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/messer.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 221
+  },
+  {
+    "name": "Riley Jamm",
+    "nickname": "Jamm",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 82,
+    "speed": 79,
+    "control": 76,
+    "defense": 68,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/jamm.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 222
+  },
+  {
+    "name": "Jonah Spark",
+    "nickname": "Spark",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 75,
+    "speed": 85,
+    "control": 81,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/spark.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 223
+  },
+  {
+    "name": "Dawson Little",
+    "nickname": "Little",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 67,
+    "speed": 83,
+    "control": 74,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/royalredux/little.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 224
+  },
+  {
+    "name": "Grant Cook",
+    "nickname": "Grent",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 68,
+    "speed": 83,
+    "control": 68,
+    "defense": 88,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/grent.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [ ],
+    "id": 225
+  },
+  {
+    "name": "Claude Beacons",
+    "nickname": "Torch",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 90,
+    "speed": 87,
+    "control": 80,
+    "defense": 67,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/torch.png",
+    "season": [
+      "T2",
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 226
+  },
+  {
+    "name": "Bonnie Sparks",
+    "nickname": "Baller",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 70,
+    "speed": 88,
+    "control": 72,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/baller.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 227
+  },
+  {
+    "name": "Sean Ashford",
+    "nickname": "Seats",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 78,
+    "control": 75,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/seats.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 228
+  },
+  {
+    "name": "Sam Bournes",
+    "nickname": "Bountine",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 74,
+    "speed": 79,
+    "control": 81,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/bountine.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 229
+  },
+  {
+    "name": "Nigel August",
+    "nickname": "Neppten",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 84,
+    "speed": 86,
+    "control": 82,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/neppten.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 230
+  },
+  {
+    "name": "Val Flamewood",
+    "nickname": "Balcke",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 63,
+    "speed": 81,
+    "control": 70,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/balcke.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 231
+  },
+  {
+    "name": "Ben Blowton",
+    "nickname": "Bomber",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 65,
+    "speed": 77,
+    "control": 78,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/bomber.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["DF"],
+    "id": 232
+  },
+  {
+    "name": "Brenda Firequest",
+    "nickname": "Lean",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 71,
+    "speed": 84,
+    "control": 82,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/lean.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 233
+  },
+  {
+    "name": "Jim Flareson",
+    "nickname": "Sidern",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 85,
+    "speed": 78,
+    "control": 70,
+    "defense": 62,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/prominence/sidern.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 234
+  },
+  {
+    "name": "Lucy Hailstone",
+    "nickname": "Icer",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 72,
+    "speed": 86,
+    "control": 84,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/icer.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 235
+  },
+  {
+    "name": "Ben North",
+    "nickname": "Beluga",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 64,
+    "speed": 85,
+    "control": 72,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/beluga.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 236
+  },
+  {
+    "name": "Albert Denver",
+    "nickname": "Gocker",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 68,
+    "speed": 78,
+    "control": 72,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/gocker.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 237
+  },
+  {
+    "name": "Brad Coldwater",
+    "nickname": "Balen",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 70,
+    "speed": 82,
+    "control": 77,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/balen.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 238
+  },
+  {
+    "name": "Denzel Freezer",
+    "nickname": "Frost",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 81,
+    "speed": 83,
+    "control": 76,
+    "defense": 64,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/frost.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 239
+  },
+  {
+    "name": "Bernie White",
+    "nickname": "Blown",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 83,
+    "speed": 85,
+    "control": 72,
+    "defense": 69,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/blown.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 240
+  },
+  {
+    "name": "Bryce Whitingale",
+    "nickname": "Gazelle",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 89,
+    "speed": 91,
+    "control": 74,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/gazelle.png",
+    "season": [
+      "T2",
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 241
+  },
+  {
+    "name": "Ving Rice",
+    "nickname": "Rhine",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 77,
+    "speed": 85,
+    "control": 83,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/rhine.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 242
+  },
+  {
+    "name": "Dawson Foxx",
+    "nickname": "Droll",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 87,
+    "control": 84,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/droll.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 243
+  },
+  {
+    "name": "Claire Lesnow",
+    "nickname": "Clear",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 73,
+    "speed": 88,
+    "control": 72,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/clear.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 244
+  },
+  {
+    "name": "Alan Downhill",
+    "nickname": "Arkew",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 66,
+    "speed": 82,
+    "control": 74,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/dimond/arkew.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 245
   }
 ]
