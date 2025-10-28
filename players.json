@@ -4765,5 +4765,374 @@
     ],
     "secondaryPositions": [],
     "id": 287
+  },
+  {
+    "name": "Zanark Avalonic",
+    "nickname": "Zanark",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 93,
+    "speed": 90,
+    "control": 83,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gocs/zanark/zanark.png",
+    "season": [
+      "GoCS"
+    ],
+    "secondaryPositions": ["DF"],
+    "id": 288
+  },
+  {
+    "name": "Bai Long",
+    "nickname": "Bai Long",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 92,
+    "speed": 90,
+    "control": 86,
+    "defense": 64,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/bailong.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 289
+  },
+  {
+    "name": "Sol Daystar",
+    "nickname": "Sol",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 88,
+    "speed": 90,
+    "control": 88,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/sol.png",
+    "season": [
+      "Go",
+      "GoCS"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 290
+  },
+  {
+    "name": "Sor",
+    "nickname": "Sor",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 72,
+    "speed": 88,
+    "control": 77,
+    "defense": 88,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gocs/raimon/sor.png",
+    "season": [
+      "GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 291
+  },
+  {
+    "name": "Fei Rune",
+    "nickname": "Fei",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 87,
+    "speed": 86,
+    "control": 86,
+    "defense": 72,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gocs/raimon/fei.png",
+    "season": [
+      "GoCS"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 292
+  },
+  {
+    "name": "Goldie Lemmon",
+    "nickname": "Goldie",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 80,
+    "speed": 91,
+    "control": 75,
+    "defense": 90,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gocs/raimon/goldie.png",
+    "season": [
+      "GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 293
+  },
+  {
+    "name": "Vladimir Blade",
+    "nickname": "Vladimir",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 90,
+    "speed": 87,
+    "control": 77,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gocs/raimon/vladimir.png",
+    "season": [
+      "GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 294
+  },
+  {
+    "name": "Victor Blade",
+    "nickname": "Victor",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 90,
+    "speed": 89,
+    "control": 74,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/victor.png",
+    "season": [
+      "Go","GoCS", "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 295
+  },
+  {
+    "name": "Samguk Han",
+    "nickname": "Samguk",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 78,
+    "control": 77,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/samguk.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": ["DF", "MC"],
+    "id": 296
+  },
+  {
+    "name": "Subaru Honda",
+    "nickname": "Subaru",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 72,
+    "speed": 85,
+    "control": 72,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/subaru.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 297
+  },
+  {
+    "name": "Jean-Pierre Lapin",
+    "nickname": "JP",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 70,
+    "speed": 87,
+    "control": 78,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/jp.png",
+    "season": [
+      "Go","GoCS", "GoG"
+    ],
+    "secondaryPositions": ["DF"],
+    "id": 298
+  },
+  {
+    "name": "Wanli Changcheng",
+    "nickname": "Wan-Chang",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 65,
+    "speed": 76,
+    "control": 76,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/wanli.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 299
+  },
+  {
+    "name": "Arion Sherwind",
+    "nickname": "Arion",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 83,
+    "speed": 91,
+    "control": 89,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/arion.png",
+    "season": [
+      "Go","GoCS", "GoG"
+    ],
+    "secondaryPositions": ["PT", "DL"],
+    "id": 300
+  },
+  {
+    "name": "Gabriel García",
+    "nickname": "Gabi",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 67,
+    "speed": 83,
+    "control": 77,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/gabi.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 301
+  },
+  {
+    "name": "Riccardo Di Rigo",
+    "nickname": "Riccardo",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 86,
+    "speed": 83,
+    "control": 88,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/riccardo.png",
+    "season": [
+      "Go","GoCS", "GoG"
+    ],
+    "secondaryPositions": ["DF", "DL"],
+    "id": 302
+  },
+  {
+    "name": "Shunsuke Aoyama",
+    "nickname": "Shun",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 81,
+    "control": 78,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/shun.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 303
+  },
+  {
+    "name": "Aitor Cazador",
+    "nickname": "Aitor",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 65,
+    "speed": 85,
+    "control": 77,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/aitor.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 304
+  },
+  {
+    "name": "Lucian Dark",
+    "nickname": "Lucian",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 85,
+    "speed": 88,
+    "control": 73,
+    "defense": 64,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/lucian.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 305
+  },
+  {
+    "name": "Ryoma Nishiki",
+    "nickname": "Roma",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 86,
+    "speed": 86,
+    "control": 84,
+    "defense": 71,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/roma.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 306
+  },
+  {
+    "name": "Hugues Baudet",
+    "nickname": "Hugh",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 80,
+    "control": 79,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/hugh.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 307
+  },
+  {
+    "name": "Michael Ballzack",
+    "nickname": "Michael",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 84,
+    "speed": 82,
+    "control": 75,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/michael.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 308
+  },
+  {
+    "name": "Adé Kébé",
+    "nickname": "Adé",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 80,
+    "speed": 85,
+    "control": 79,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/ade.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 309
+  },
+  {
+    "name": "Eugene Peabody",
+    "nickname": "Eugene",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 88,
+    "control": 76,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/raimon/eugene.png",
+    "season": [
+      "Go","GoCS"
+    ],
+    "secondaryPositions": [],
+    "id": 310
   }
 ]
