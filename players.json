@@ -4589,5 +4589,181 @@
     ],
     "secondaryPositions": [],
     "id": 276
+  },
+  {
+    "name": "Alexia Sand",
+    "nickname": "Sand",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 64,
+    "speed": 85,
+    "control": 74,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/sand.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 277
+  },
+  {
+    "name": "Hellen Hearth",
+    "nickname": "Earth",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 67,
+    "speed": 81,
+    "control": 76,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/earth.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 278
+  },
+  {
+    "name": "Rose Pinkpetal",
+    "nickname": "Pinkpetal",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 62,
+    "speed": 77,
+    "control": 73,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/pinkpetal.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 279
+  },
+  {
+    "name": "Natalie Sunrise",
+    "nickname": "Sunrise",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 73,
+    "speed": 81,
+    "control": 78,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/sunrise.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 280
+  },
+  {
+    "name": "Hillary Bush",
+    "nickname": "Bush",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 74,
+    "speed": 76,
+    "control": 78,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/bush.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 281
+  },
+  {
+    "name": "Lily Willow",
+    "nickname": "Willow",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 82,
+    "speed": 84,
+    "control": 74,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/willow.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 282
+  },
+  {
+    "name": "Peony Cash",
+    "nickname": "Cash",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 74,
+    "speed": 82,
+    "control": 78,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/cash.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 283
+  },
+  {
+    "name": "Daisy Fields",
+    "nickname": "Daisy",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 64,
+    "speed": 72,
+    "control": 75,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/daisy.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 284
+  },
+  {
+    "name": "Esther Greenland",
+    "nickname": "Greenland",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 70,
+    "speed": 86,
+    "control": 74,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/greenland.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 285
+  },
+  {
+    "name": "Bela Bluebells",
+    "nickname": "Bluebells",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 75,
+    "speed": 85,
+    "control": 79,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/bluebells.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 286
+  },
+  {
+    "name": "Mary Moor",
+    "nickname": "Moor",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 80,
+    "speed": 82,
+    "control": 73,
+    "defense": 64,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/ccc/moor.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 287
   }
 ]
