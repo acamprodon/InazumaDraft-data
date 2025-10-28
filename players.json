@@ -4397,5 +4397,197 @@
     ],
     "secondaryPositions": [],
     "id": 264
+  },
+  {
+    "name": "Rocky Black",
+    "nickname": "Rocky",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 77,
+    "control": 76,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/rocky.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 265
+  },
+  {
+    "name": "Hector Redding",
+    "nickname": "Redding",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 64,
+    "speed": 77,
+    "control": 77,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/redding.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 266
+  },
+  {
+    "name": "Dora Delight",
+    "nickname": "Delight",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 74,
+    "speed": 84,
+    "control": 79,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/delight.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 267
+  },
+  {
+    "name": "Jack Griddle",
+    "nickname": "Griddle",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 76,
+    "speed": 79,
+    "control": 79,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/griddle.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 268
+  },
+  {
+    "name": "Chad Taylor",
+    "nickname": "Diver",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 69,
+    "speed": 85,
+    "control": 74,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/diver.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 269
+  },
+  {
+    "name": "Mackenzie Fordline",
+    "nickname": "Fordline",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 77,
+    "speed": 83,
+    "control": 79,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/fordline.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 270
+  },
+  {
+    "name": "Joston Easton",
+    "nickname": "Easton",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 81,
+    "speed": 84,
+    "control": 79,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/easton.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 271
+  },
+  {
+    "name": "Spring Millpond",
+    "nickname": "Shark",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 86,
+    "speed": 85,
+    "control": 77,
+    "defense": 62,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/shark.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 272
+  },
+  {
+    "name": "Cadence Soundtown",
+    "nickname": "Soundtown",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 83,
+    "control": 87,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/soundtown.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 273
+  },
+  {
+    "name": "Tom Contented",
+    "nickname": "Contented",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 84,
+    "speed": 78,
+    "control": 80,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/contented.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 274
+  },
+  {
+    "name": "Victor Hills",
+    "nickname": "Hills",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 76,
+    "control": 76,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/hills.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 275
+  },
+  {
+    "name": "Bevan Breakfast",
+    "nickname": "Breakfast",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 63,
+    "speed": 78,
+    "control": 72,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/maryt/breakfast.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 276
   }
 ]
