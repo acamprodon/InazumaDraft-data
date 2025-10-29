@@ -4793,7 +4793,7 @@
     "defense": 64,
     "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/bailong.png",
     "season": [
-      "Go"
+      "Go", "GoG"
     ],
     "secondaryPositions": ["MC"],
     "id": 289
@@ -5278,5 +5278,373 @@
     ],
     "secondaryPositions": [],
     "id": 319
+  },
+  {
+    "name": "Hall Ales",
+    "nickname": "Whale",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 64,
+    "speed": 73,
+    "control": 71,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/whale.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 320
+  },
+  {
+    "name": "Amanda Turner",
+    "nickname": "Manta",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 76,
+    "speed": 79,
+    "control": 77,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/manta.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 321
+  },
+  {
+    "name": "Jude Gordon",
+    "nickname": "Dugong",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 77,
+    "control": 73,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/dugong.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 322
+  },
+  {
+    "name": "Owen Easter",
+    "nickname": "Oyster",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 63,
+    "speed": 79,
+    "control": 72,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/oyster.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 323
+  },
+  {
+    "name": "Calm Childs",
+    "nickname": "Childs",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 64,
+    "speed": 81,
+    "control": 70,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/childs.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 324
+  },
+  {
+    "name": "Herman Beaumont",
+    "nickname": "Manbou",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 66,
+    "speed": 80,
+    "control": 74,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/manbou.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 325
+  },
+  {
+    "name": "Skwid White",
+    "nickname": "Skwid",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 70,
+    "speed": 76,
+    "control": 77,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/skwid.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 326
+  },
+  {
+    "name": "Marsha Ark",
+    "nickname": "Shark",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 76,
+    "speed": 82,
+    "control": 81,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/shark.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 327
+  },
+  {
+    "name": "Rob Stark",
+    "nickname": "Lobster",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 79,
+    "speed": 79,
+    "control": 74,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/lobster.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 328
+  },
+  {
+    "name": "Octa Pasun",
+    "nickname": "Octopus",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 80,
+    "speed": 78,
+    "control": 74,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/octopus.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 329
+  },
+  {
+    "name": "Cole LaRuze",
+    "nickname": "LaRuze",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 78,
+    "speed": 82,
+    "control": 83,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/bigw/cole.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 330
+  },
+  {
+    "name": "Sonny Shore",
+    "nickname": "Beaches",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 63,
+    "speed": 81,
+    "control": 73,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/beaches.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 331
+  },
+  {
+    "name": "Joe Dawes",
+    "nickname": "Jaws",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 82,
+    "speed": 77,
+    "control": 70,
+    "defense": 64,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/jaws.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 332
+  },
+  {
+    "name": "Shawn Princeton",
+    "nickname": "Prawn",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 69,
+    "speed": 80,
+    "control": 77,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/prawn.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 333
+  },
+  {
+    "name": "Matt Fischer",
+    "nickname": "Fisher",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 71,
+    "speed": 78,
+    "control": 76,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/fisher.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 334
+  },
+  {
+    "name": "David Waterman",
+    "nickname": "Water",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 79,
+    "control": 74,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/water.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 335
+  },
+  {
+    "name": "Bruce Marlin",
+    "nickname": "Marlin",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 79,
+    "speed": 82,
+    "control": 76,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/marlin.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 336
+  },
+  {
+    "name": "Hamilton Reith",
+    "nickname": "Reef",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 81,
+    "speed": 80,
+    "control": 74,
+    "defense": 67,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/reef.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 337
+  },
+  {
+    "name": "Hank Tennyson",
+    "nickname": "Hang-Ten",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 76,
+    "control": 77,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/hang.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 338
+  },
+  {
+    "name": "Gene Whalon",
+    "nickname": "Whale",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 66,
+    "speed": 80,
+    "control": 73,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/whale.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 339
+  },
+  {
+    "name": "Dolph Hensen",
+    "nickname": "Dolphin",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 83,
+    "control": 82,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/dolphin.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 340
+  },
+  {
+    "name": "Ken Crackham",
+    "nickname": "Kraken",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 68,
+    "speed": 76,
+    "control": 73,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/kraken.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 341
+  },
+  {
+    "name": "Kjell Snapper",
+    "nickname": "Turtle",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 64,
+    "speed": 74,
+    "control": 72,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/bigw/turtle.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 342
   }
 ]
