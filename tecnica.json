@@ -412,5 +412,17 @@
     "power": 39,
     "players": ["Victor", "Falco"],
     "combined": true
+  },
+  {
+    "name": "Voltaje Dual",
+    "power": 66,
+    "players": ["Lucefăr", "Bump", "Lump"],
+    "combined": true
+  },
+  {
+    "name": "Remate Letal",
+    "power": 66,
+    "players": ["Lancer", "Callous", "Malice"],
+    "combined": true
   }
 ]

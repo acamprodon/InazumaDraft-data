@@ -5822,5 +5822,181 @@
     ],
     "secondaryPositions": [],
     "id": 353
+  },
+  {
+    "name": "Drachen Gunther",
+    "nickname": "Gunther",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 76,
+    "speed": 81,
+    "control": 83,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/gunther.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 354
+  },
+  {
+    "name": "Bump Trungus",
+    "nickname": "Bump",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 71,
+    "speed": 87,
+    "control": 73,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/bump.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 355
+  },
+  {
+    "name": "Lump Trungus",
+    "nickname": "Lump",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 71,
+    "speed": 87,
+    "control": 73,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/lump.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 356
+  },
+  {
+    "name": "Lars Luceafăr",
+    "nickname": "Luceafăr",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 80,
+    "control": 77,
+    "defense": 89,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/lars.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 357
+  },
+  {
+    "name": "Ichabod Stark",
+    "nickname": "Stark",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 75,
+    "speed": 81,
+    "control": 80,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/stark.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 358
+  },
+  {
+    "name": "Escavan Malice",
+    "nickname": "Malice",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 88,
+    "speed": 85,
+    "control": 76,
+    "defense": 67,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/malice.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 359
+  },
+  {
+    "name": "Mystral Callous",
+    "nickname": "Callous",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 86,
+    "speed": 90,
+    "control": 75,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/callous.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 360
+  },
+  {
+    "name": "Bash Lancer",
+    "nickname": "Lancer",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 92,
+    "speed": 87,
+    "control": 79,
+    "defense": 69,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/lancer.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 361
+  },
+  {
+    "name": "Jynx Jenkins",
+    "nickname": "Jenkins",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 67,
+    "speed": 81,
+    "control": 76,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/jenkins.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 362
+  },
+  {
+    "name": "Oni Triumvir",
+    "nickname": "Triumvir",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 72,
+    "speed": 83,
+    "control": 82,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/triumvir.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 363
+  },
+  {
+    "name": "Radd Ischer",
+    "nickname": "Ischer",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 62,
+    "speed": 77,
+    "control": 76,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/ogro/ischer.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 364
   }
 ]
