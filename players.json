@@ -5646,5 +5646,181 @@
     ],
     "secondaryPositions": [],
     "id": 342
+  },
+  {
+    "name": "Triton Nettuno",
+    "nickname": "Nettuno",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 86,
+    "speed": 84,
+    "control": 78,
+    "defense": 71,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/nettuno.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 343
+  },
+  {
+    "name": "Crateris Mercury",
+    "nickname": "Mercury",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 70,
+    "speed": 83,
+    "control": 76,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/mercury.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 344
+  },
+  {
+    "name": "Ringo Saturn",
+    "nickname": "Saturn",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 85,
+    "control": 78,
+    "defense": 88,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/saturn.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 345
+  },
+  {
+    "name": "Terran Gaea",
+    "nickname": "Gaea",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 63,
+    "speed": 77,
+    "control": 73,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/geae.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 346
+  },
+  {
+    "name": "Mac Emake",
+    "nickname": "Emake",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 64,
+    "speed": 75,
+    "control": 75,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/emake.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 347
+  },
+  {
+    "name": "Callis Jove",
+    "nickname": "Jove",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 73,
+    "speed": 79,
+    "control": 78,
+    "defense": 71,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/jove.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 348
+  },
+  {
+    "name": "Manning Moon",
+    "nickname": "Moon",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 62,
+    "speed": 74,
+    "control": 73,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/moon.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 349
+  },
+  {
+    "name": "Neith Venus",
+    "nickname": "Venus",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 78,
+    "speed": 83,
+    "control": 80,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/venus.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 350
+  },
+  {
+    "name": "Auberon Ouranos",
+    "nickname": "Ouranos",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 65,
+    "speed": 76,
+    "control": 76,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/ouranos.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 351
+  },
+  {
+    "name": "Nix Pluto",
+    "nickname": "Pluto",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 71,
+    "speed": 83,
+    "control": 78,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/pluto.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 352
+  },
+  {
+    "name": "Deimos Mars",
+    "nickname": "Mars",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 79,
+    "speed": 81,
+    "control": 79,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/mars.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 353
   }
 ]
