@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Triángulo letal",
+    "power": 62,
+    "players": ["Samford", "Hatch", "Swing"],
+    "combined": true
+  },
+  {
+    "name": "Súper Relámpago",
+    "power": 35,
+    "players": ["Mark", "Axel"],
+    "combined": true
+  },
+  {
+    "name": "Supertrampolín Relámpago",
+    "power": 64,
+    "players": ["Mark", "Axel", "Jack"],
+    "combined": true
+  },
+  {
+    "name": "Ruptura Relámpago",
+    "power": 61,
+    "players": ["Mark", "Axel", "Jude"],
+    "combined": true
+  },
+  {
+    "name": "Fénix",
+    "power": 63,
+    "players": ["Mark", "Erik", "Bobby"],
+    "combined": true
+  },
+  {
+    "name": "Defensa Triple",
+    "power": 65,
+    "players": ["Mark", "Jack", "Tod"],
+    "combined": true
+  },
+  {
+    "name": "Triángulo letal 2",
+    "power": 64,
+    "players": ["Mark", "Bobby", "Jude"],
+    "combined": true
+  },
+  {
+    "name": "La Tierra",
+    "power": 67,
+    "players": ["Mark", "Axel", "Shawn"],
+    "combined": true
+  },
+  {
+    "name": "Pájaro de Fuego",
+    "power": 39,
+    "players": ["Axel", "Nathan"],
+    "combined": true
+  },
+  {
+    "name": "Trampolín Relámpago",
+    "power": 36,
+    "players": ["Axel", "Jack"],
+    "combined": true
+  },
+  {
+    "name": "Tornado Dragón",
+    "power": 35,
+    "players": ["Axel", "Kevin"],
+    "combined": true
+  },
+  {
+    "name": "Empuje Gemelo F",
+    "power": 40,
+    "players": ["Axel", "Jude"],
+    "combined": true
+  },
+  {
+    "name": "Fuego Cruzado",
+    "power": 40,
+    "players": ["Axel", "Shawn"],
+    "combined": true
+  },
+  {
+    "name": "Remate Gafas",
+    "power": 22,
+    "players": ["Kevin", "Willy"],
+    "combined": true
+  },
+  {
+    "name": "Ventisca Guiverno",
+    "power": 40,
+    "players": ["Kevin", "Shawn"],
+    "combined": true
+  },
+  {
+    "name": "Pingüino Emperador N2",
+    "power": 62,
+    "players": ["Jude", "Samford", "Hatch"],
+    "combined": true
+  },
+  {
+    "name": "Pingüino Emperador N3",
+    "power": 65,
+    "players": ["Jude", "Samford", "Caleb"],
+    "combined": true
+  },
+  {
+    "name": "Torre Perfecta",
+    "power": 63,
+    "players": ["Tori", "Scotty", "Hurley"],
+    "combined": true
+  },
+  {
+    "name": "Baile de Mariposas",
+    "power": 34,
+    "players": ["Tori", "Sue"],
+    "combined": true
+  },
+  {
+    "name": "Baile de Mariposas",
+    "power": 34,
+    "players": ["Willow", "Sue"],
+    "combined": true
+  },
+  {
+    "name": "Remate Halcón",
+    "power": 32,
+    "players": ["Chiken", "Eagle"],
+    "combined": true
+  },
+  {
+    "name": "Bateo Total",
+    "power": 30,
+    "players": ["Gamer", "Artist"],
+    "combined": true
+  },
+  {
+    "name": "Remate Combinado",
+    "power": 32,
+    "players": ["Erik", "Jude"],
+    "combined": true
+  },
+  {
+    "name": "Remate Combinado",
+    "power": 32,
+    "players": ["Samford", "Jude"],
+    "combined": true
+  },
+  {
+    "name": "Muralla Infinita",
+    "power": 60,
+    "players": ["Greeny", "Hillvalley", "Sherman"],
+    "combined": true
+  },
+  {
+    "name": "Triángulo Z",
+    "power": 65,
+    "players": ["Marvin", "Tyler", "Thomas"],
+    "combined": true
+  },
+  {
+    "name": "Flecha Huracán",
+    "power": 61,
+    "players": ["Night", "Meenan", "Mirthful"],
+    "combined": true
+  },
+  {
+    "name": "Remate en V",
+    "power": 38,
+    "players": ["Max", "Steve"],
+    "combined": true
+  },
+  {
+    "name": "Bloqueo Doble",
+    "power": 39,
+    "players": ["Jim", "Feldt"],
+    "combined": true
+  },
+  {
+    "name": "Estrella Fugaz",
+    "power": 37,
+    "players": ["Timmy", "Sam"],
+    "combined": true
+  },
+  {
+    "name": "Remate Triple",
+    "power": 64,
+    "players": ["Nathan", "Sam", "Tod"],
+    "combined": true
+  },
+  {
+    "name": "Fénix Oscuro",
+    "power": 66,
+    "players": ["Nathan", "Max", "Kevin"],
+    "combined": true
+  },
+  {
+    "name": "Disparo Cósmico",
+    "power": 36,
+    "players": ["Janus", "Diam"],
+    "combined": true
+  },
+  {
+    "name": "Tirachinas",
+    "power": 64,
+    "players": ["García", "Jiménez", "Bonachea"],
+    "combined": true
+  },
+  {
+    "name": "Tiro a Reacción",
+    "power": 65,
+    "players": ["Mark", "Axel", "Austin"],
+    "combined": true
+  },
+  {
+    "name": "Torbellino Trampolín",
+    "power": 37,
+    "players": ["Nathan", "Jack"],
+    "combined": true
+  },
+  {
+    "name": "El Huracán",
+    "power": 38,
+    "players": ["Nathan", "Shawn"],
+    "combined": true
+  },
+  {
+    "name": "Campo de Fuerza",
+    "power": 39,
+    "players": ["Jude", "Caleb"],
+    "combined": true
+  },
+  {
+    "name": "Bestia del Trueno",
+    "power": 37,
+    "players": ["Shawn", "Thor"],
+    "combined": true
+  },
+  {
+    "name": "La Aurora",
+    "power": 40,
+    "players": ["Shawn", "Xavier"],
+    "combined": true
+  },
+  {
+    "name": "Big Bang",
+    "power": 66,
+    "players": ["Shawn", "Xavier", "Jude"],
+    "combined": true
+  },
+  {
+    "name": "Tormenta del Tigre",
+    "power": 36,
+    "players": ["Axel", "Austin"],
+    "combined": true
+  },
+  {
+    "name": "Fuego Total",
+    "power": 64,
+    "players": ["Axel", "Austin", "Xavier"],
+    "combined": true
+  },
+  {
+    "name": "Supernova",
+    "power": 65,
+    "players": ["Xene", "Bellatrix", "Wittz"],
+    "combined": true
+  },
+  {
+    "name": "Pingüino Espacial",
+    "power": 65,
+    "players": ["Xene", "Bellatrix", "Wittz"],
+    "combined": true
+  },
+  {
+    "name": "Muralla Infinita 2",
+    "power": 65,
+    "players": ["King", "Hillvalley", "Bargie"],
+    "combined": true
+  },
+  {
+    "name": "Segadora",
+    "power": 34,
+    "players": ["Zohen", "Bargie"],
+    "combined": true
+  },
+  {
+    "name": "Ciclón Doble",
+    "power": 34,
+    "players": ["Bargie", "Hatch"],
+    "combined": true
+  },
+  {
+    "name": "Ciclón Doble",
+    "power": 34,
+    "players": ["Bargie", "Beltzer"],
+    "combined": true
+  },
+  {
+    "name": "Triángulo Z 2",
+    "power": 68,
+    "players": ["Quagmire", "Zell", "Wittz"],
+    "combined": true
+  },
+  {
+    "name": "Remate de Gaia",
+    "power": 65,
+    "players": ["Zell", "Mercury", "Metron"],
+    "combined": true
+  },
+  {
+    "name": "Ventisca de Fuego",
+    "power": 40,
+    "players": ["Torch", "Gazelle"],
+    "combined": true
+  },
+  {
+    "name": "Remate Caótico",
+    "power": 68,
+    "players": ["Torch", "Gazelle", "Byron"],
+    "combined": true
+  },
+  {
+    "name": "Escudo Corporal",
+    "power": 65,
+    "players": ["Western", "Smith", "Hammond"],
+    "combined": true
+  },
+  {
+    "name": "Aikido",
+    "power": 35,
+    "players": ["Agente M", "Firepool"],
+    "combined": true
+  },
+  {
+    "name": "Remate de Seguridad",
+    "power": 22,
+    "players": ["Mirror", "Kenneddy"],
+    "combined": true
+  },
+  {
+    "name": "Bomba Acrobática",
+    "power": 22,
+    "players": ["Mirror", "Kenneddy"],
+    "combined": true
+  },
+  {
+    "name": "Emboscada Defensiva",
+    "power": 64,
+    "players": ["Hills", "Diver", "Redding"],
+    "combined": true
+  },
+  {
+    "name": "Remate del Águila",
+    "power": 64,
+    "players": ["Hills", "Shark", "Contented"],
+    "combined": true
+  },
+  {
+    "name": "Volterta Circense",
+    "power": 33,
+    "players": ["Fake", "Badgamae"],
+    "combined": true
+  },
+  {
+    "name": "Carrera a Tres Piernas",
+    "power": 34,
+    "players": ["Random", "Poker"],
+    "combined": true
+  },
+  {
+    "name": "Defensa Propulsada",
+    "power": 34,
+    "players": ["JP", "Aitor"],
+    "combined": true
+  },
+  {
+    "name": "Triple Amenaza",
+    "power": 65,
+    "players": ["Arion", "Victor", "Riccardo"],
+    "combined": true
+  },
+  {
+    "name": "Tornado de Fuego DD",
+    "power": 40,
+    "players": ["Arion", "Victor"],
+    "combined": true
+  },
+  {
+    "name": "Superramte Rebotado",
+    "power": 37,
+    "players": ["Arion", "Fei"],
+    "combined": true
+  },
+  {
+    "name": "Tornado de Fuego DT",
+    "power": 67,
+    "players": ["Arion", "Victor", "Goldie"],
+    "combined": true
+  },
+  {
+    "name": "Lluvia de Azufre",
+    "power": 38,
+    "players": ["Riccardo", "Victor"],
+    "combined": true
+  },
+  {
+    "name": "Cruce Explosivo",
+    "power": 36,
+    "players": ["Hugh", "Shun"],
+    "combined": true
+  }
+]
