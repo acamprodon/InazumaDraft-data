@@ -406,5 +406,11 @@
     "power": 36,
     "players": ["Hugh", "Shun"],
     "combined": true
+  },
+  {
+    "name": "Alba Oscura",
+    "power": 39,
+    "players": ["Victor", "Falco"],
+    "combined": true
   }
 ]
