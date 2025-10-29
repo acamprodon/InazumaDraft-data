@@ -5134,5 +5134,149 @@
     ],
     "secondaryPositions": [],
     "id": 310
+  },
+  {
+    "name": "Terry Archibald",
+    "nickname": "Terry",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 64,
+    "speed": 86,
+    "control": 73,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/terry.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 311
+  },
+  {
+    "name": "Zippy Lerner",
+    "nickname": "Zippy ",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 62,
+    "speed": 76,
+    "control": 73,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/zippy.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 312
+  },
+  {
+    "name": "Cerise Blossom",
+    "nickname": "Cerise",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 85,
+    "control": 84,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/cerise.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 313
+  },
+  {
+    "name": "Falco Flashman",
+    "nickname": "Falco",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 84,
+    "speed": 93,
+    "control": 75,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/falco.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 314
+  },
+  {
+    "name": "Zack Avalon",
+    "nickname": "Zack",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 87,
+    "speed": 84,
+    "control": 78,
+    "defense": 68,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/zack.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 315
+  },
+  {
+    "name": "Trina Verdure",
+    "nickname": "Trina",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 61,
+    "speed": 87,
+    "control": 72,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/trina.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 316
+  },
+  {
+    "name": "Frank Foreman",
+    "nickname": "Frank",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 69,
+    "speed": 84,
+    "control": 74,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/frank.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 317
+  },
+  {
+    "name": "Buddy Fury",
+    "nickname": "Buddy",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 77,
+    "speed": 78,
+    "control": 79,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/buddy.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 318
+  },
+  {
+    "name": "Keenan Sharpe",
+    "nickname": "Keenan",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 67,
+    "speed": 80,
+    "control": 78,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/gog/japon/keenan.png",
+    "season": [
+      "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 319
   }
 ]
