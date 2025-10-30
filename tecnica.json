@@ -430,5 +430,17 @@
     "power": 39,
     "players": ["Bai Long", "Tezcat"],
     "combined": true
+  },
+  {
+    "name": "Disparo Dual",
+    "power": 37,
+    "players": ["Flare", "Haddad"],
+    "combined": true
+  },
+  {
+    "name": "Patín Aéreo",
+    "power": 37,
+    "players": ["Flare", "Maxi"],
+    "combined": true
   }
 ]

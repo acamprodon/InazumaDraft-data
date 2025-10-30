@@ -5704,7 +5704,7 @@
     "speed": 77,
     "control": 73,
     "defense": 81,
-    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/geae.png",
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/universal/gaea.png",
     "season": [
       "Go"
     ],
@@ -6334,5 +6334,485 @@
     ],
     "secondaryPositions": [],
     "id": 385
+  },
+  {
+    "name": "Jimi Gaines ",
+    "nickname": "Gaines",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 75,
+    "speed": 77,
+    "control": 72,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/gaines.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 386
+  },
+  {
+    "name": "Yasir Haddad ",
+    "nickname": "Haddad",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 81,
+    "speed": 83,
+    "control": 83,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/haddad.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 387
+  },
+  {
+    "name": "Drago Hill ",
+    "nickname": "Drago",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 88,
+    "speed": 84,
+    "control": 76,
+    "defense": 69,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/drago.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 388
+  },
+  {
+    "name": "Keenan DiFortune",
+    "nickname": "Difortune",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 65,
+    "speed": 83,
+    "control": 73,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/difortune.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 389
+  },
+  {
+    "name": "Li Leung",
+    "nickname": "Leung",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 88,
+    "control": 84,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/leung.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 390
+  },
+  {
+    "name": "Maximino Cruz",
+    "nickname": "Maxi",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 85,
+    "control": 86,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/maxi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 391
+  },
+  {
+    "name": "Quint Hampton",
+    "nickname": "Hampton",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 76,
+    "speed": 80,
+    "control": 79,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/hampton.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 392
+  },
+  {
+    "name": "Zephyr Vitesse",
+    "nickname": "Vitesse",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 72,
+    "speed": 90,
+    "control": 77,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/vitesse.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 393
+  },
+  {
+    "name": "Walter Mountain",
+    "nickname": "Mountain",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 64,
+    "speed": 76,
+    "control": 77,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/mountain.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 394
+  },
+  {
+    "name": "Ian Ferrum",
+    "nickname": "Ferrum",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 81,
+    "control": 76,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/ferrum.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 395
+  },
+  {
+    "name": "Ian Ferrum",
+    "nickname": "Ferrum",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 81,
+    "control": 76,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/ferrum.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 395
+  },
+  {
+    "name": "Keith Ryan",
+    "nickname": "Ryan",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 76,
+    "speed": 83,
+    "control": 82,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/ryan.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 396
+  },
+  {
+    "name": "Gareth Flare",
+    "nickname": "Flare",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 88,
+    "speed": 86,
+    "control": 79,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/flare.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 397
+  },
+  {
+    "name": "Hector Helio",
+    "nickname": "Helio",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 89,
+    "speed": 87,
+    "control": 77,
+    "defense": 90,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/costam/hector.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 398
+  },
+  {
+    "name": "Nelly Raimon",
+    "nickname": "Nelly",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 87,
+    "speed": 85,
+    "control": 77,
+    "defense": 68,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/raimon/nelly.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 399
+  },
+  {
+    "name": "Silvia Woods",
+    "nickname": "Silvia",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 83,
+    "control": 73,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/raimon/silvia.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 400
+  },
+  {
+    "name": "Celia Hills",
+    "nickname": "Celia",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 83,
+    "speed": 83,
+    "control": 85,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/raimon/celia.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 401
+  },
+  {
+    "name": "Camelia Travis",
+    "nickname": "Cammy",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 82,
+    "control": 76,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/inazumajapan/cammy.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 402
+  },
+  {
+    "name": "Paolo Bianchi",
+    "nickname": "Bianchi",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 89,
+    "speed": 90,
+    "control": 84,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/bianchi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 403
+  },
+  {
+    "name": "Hidetoshi Nakata",
+    "nickname": "Nakata",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 87,
+    "speed": 88,
+    "control": 89,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/nakata.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 404
+  },
+  {
+    "name": "Otto Nobili",
+    "nickname": "Nobili",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 78,
+    "control": 75,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/nobili.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 405
+  },
+  {
+    "name": "Gianluca Zanardi",
+    "nickname": "Zanardi",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 80,
+    "control": 81,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/zanardi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 406
+  },
+  {
+    "name": "Giacomo Yani",
+    "nickname": "Yani",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 79,
+    "speed": 82,
+    "control": 85,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/yani.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 407
+  },
+  {
+    "name": "Marco Maserati",
+    "nickname": "Maserati",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 70,
+    "speed": 84,
+    "control": 78,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/maserati.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 408
+  },
+  {
+    "name": "Raffaele Generani",
+    "nickname": "Generani",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 85,
+    "speed": 84,
+    "control": 76,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/generani.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 409
+  },
+  {
+    "name": "Anton Graziuso",
+    "nickname": "Graziuso",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 67,
+    "speed": 83,
+    "control": 77,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/graziuso.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 410
+  },
+  {
+    "name": "Dante Diavolo",
+    "nickname": "Diavolo",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 80,
+    "speed": 82,
+    "control": 84,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/diavolo.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 411
+  },
+  {
+    "name": "Angelo Gabrini",
+    "nickname": "Gabrini",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 86,
+    "control": 84,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/gabri.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 412
+  },
+  {
+    "name": "Vento Galliano",
+    "nickname": "Galliano",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 83,
+    "control": 77,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/galliano.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 413
+  },
+  {
+    "name": "Gigi Blasi",
+    "nickname": "Blasi",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 64,
+    "speed": 78,
+    "control": 77,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/orfeo/blasi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 414
   }
 ]
