@@ -424,5 +424,11 @@
     "power": 66,
     "players": ["Lancer", "Callous", "Malice"],
     "combined": true
+  },
+  {
+    "name": "Zero Magnum",
+    "power": 39,
+    "players": ["Bai Long", "Tezcat"],
+    "combined": true
   }
 ]

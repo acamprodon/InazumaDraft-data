@@ -5998,5 +5998,341 @@
     ],
     "secondaryPositions": [],
     "id": 364
+  },
+  {
+    "name": "Laban Lux",
+    "nickname": "Laban",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 79,
+    "speed": 80,
+    "control": 83,
+    "defense": 71,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/laban.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 365
+  },
+  {
+    "name": "Beacon Noor",
+    "nickname": "Beacon",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 73,
+    "speed": 80,
+    "control": 81,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/beacon.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 366
+  },
+  {
+    "name": "Dawntavius Spectrum",
+    "nickname": "Spectrum",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 83,
+    "speed": 85,
+    "control": 84,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/spectrum.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 367
+  },
+  {
+    "name": "Beamer Daye",
+    "nickname": "Beamer",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 67,
+    "speed": 84,
+    "control": 76,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/beamer.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 368
+  },
+  {
+    "name": "Brighton Spark",
+    "nickname": "Brighton",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 81,
+    "control": 82,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/brighton.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 369
+  },
+  {
+    "name": "Chandler Blanc",
+    "nickname": "Chandler",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 74,
+    "speed": 77,
+    "control": 76,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/chandler.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 370
+  },
+  {
+    "name": "Candido Glow",
+    "nickname": "Candido",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 80,
+    "control": 74,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/candido.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 371
+  },
+  {
+    "name": "Albion Lumina",
+    "nickname": "Albion",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 64,
+    "speed": 81,
+    "control": 72,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/albion.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 372
+  },
+  {
+    "name": "Dwight Whittaker",
+    "nickname": "Dwight",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 79,
+    "control": 78,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/dwight.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 373
+  },
+  {
+    "name": "Filbert Weissman",
+    "nickname": "Weissman",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 83,
+    "speed": 83,
+    "control": 72,
+    "defense": 67,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/luz/weissman.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 374
+  },
+  {
+    "name": "Yang",
+    "nickname": "Yang",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 86,
+    "speed": 84,
+    "control": 77,
+    "defense": 68,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/yang.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 375
+  },
+  {
+    "name": "Tezcat",
+    "nickname": "Tezcat",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 91,
+    "speed": 86,
+    "control": 85,
+    "defense": 72,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/tezcat.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 376
+  },
+  {
+    "name": "Tynan Crowe",
+    "nickname": "Tynan",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 82,
+    "speed": 85,
+    "control": 83,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/tynan.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 377
+  },
+  {
+    "name": "Duff Dooley",
+    "nickname": "Duff",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 76,
+    "speed": 76,
+    "control": 79,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/duff.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 378
+  },
+  {
+    "name": "Shady Shwartz",
+    "nickname": "Shady",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 80,
+    "speed": 82,
+    "control": 78,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/shady.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 379
+  },
+  {
+    "name": "Goth Grimshaw",
+    "nickname": "Goth",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 78,
+    "speed": 87,
+    "control": 84,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/goth.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 380
+  },
+  {
+    "name": "Jet Onyx",
+    "nickname": "Onyx",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 68,
+    "speed": 75,
+    "control": 74,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/onyx.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 381
+  },
+  {
+    "name": "Nero Night",
+    "nickname": "Night",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 68,
+    "speed": 87,
+    "control": 75,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/night.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 382
+  },
+  {
+    "name": "Cole Ebony",
+    "nickname": "Ebony",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 76,
+    "control": 73,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/ebony.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 383
+  },
+  {
+    "name": "Morris Moore",
+    "nickname": "Morris",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 64,
+    "speed": 74,
+    "control": 71,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/morris.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 384
+  },
+  {
+    "name": "Blake Obscura",
+    "nickname": "Obscura",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 68,
+    "speed": 84,
+    "control": 76,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/oscuridad/obscura.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 385
   }
 ]
