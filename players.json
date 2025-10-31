@@ -7038,5 +7038,149 @@
     ],
     "secondaryPositions": [],
     "id": 428
+  },
+  {
+    "name": "Changsu Choi",
+    "nickname": "Choi",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 81,
+    "speed": 83,
+    "control": 87,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/choi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 429
+  },
+  {
+    "name": "Minho Cho",
+    "nickname": "Minho",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 64,
+    "speed": 77,
+    "control": 75,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/minho.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 430
+  },
+  {
+    "name": "Sung-Jin Noh",
+    "nickname": "Noh",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 83,
+    "speed": 81,
+    "control": 74,
+    "defense": 63,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/noh.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 431
+  },
+  {
+    "name": "Enyong Kim",
+    "nickname": "Kim",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 74,
+    "speed": 77,
+    "control": 78,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/kim.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 432
+  },
+  {
+    "name": "Pekyong Park",
+    "nickname": "Park",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 75,
+    "speed": 79,
+    "control": 79,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/park.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 433
+  },
+  {
+    "name": "Jang Cho",
+    "nickname": "Jang",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 64,
+    "speed": 79,
+    "control": 75,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/jang.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 434
+  },
+  {
+    "name": "Songwang Ko",
+    "nickname": "Ko",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 77,
+    "control": 74,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/ko.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 435
+  },
+  {
+    "name": "Doyo Hong",
+    "nickname": "Hong",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 67,
+    "speed": 85,
+    "control": 77,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/hong.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 436
+  },
+  {
+    "name": "Umi Wang",
+    "nickname": "Wang",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 67,
+    "speed": 84,
+    "control": 76,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/corea/wang.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 437
   }
 ]
