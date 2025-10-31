@@ -6814,5 +6814,229 @@
     ],
     "secondaryPositions": [],
     "id": 414
+  },
+  {
+    "name": "Roberto Torinni",
+    "nickname": "Torinni",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 76,
+    "speed": 79,
+    "control": 82,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/torinmi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 415
+  },
+  {
+    "name": "Pablo Castiglione",
+    "nickname": "Castiglione",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 82,
+    "speed": 84,
+    "control": 84,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/pablo.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 416
+  },
+  {
+    "name": "Enrique Caroso",
+    "nickname": "Caroso",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 78,
+    "speed": 84,
+    "control": 85,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/caroso.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 417
+  },
+  {
+    "name": "Hernán Tévez",
+    "nickname": "Tévez",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 73,
+    "speed": 83,
+    "control": 76,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/tevez.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 418
+  },
+  {
+    "name": "Ricardo Agüero",
+    "nickname": "Agüero",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 85,
+    "speed": 86,
+    "control": 74,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/aguero.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 419
+  },
+  {
+    "name": "Felipe Palacios",
+    "nickname": "Palacios",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 67,
+    "speed": 77,
+    "control": 75,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/palacios.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 420
+  },
+  {
+    "name": "Ramón Martínez",
+    "nickname": "Martínez",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 65,
+    "speed": 83,
+    "control": 74,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/ramon.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 421
+  },
+  {
+    "name": "Miguel Ros",
+    "nickname": "Ros",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 71,
+    "speed": 79,
+    "control": 78,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/ros.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 422
+  },
+  {
+    "name": "Sergio López",
+    "nickname": "López",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 76,
+    "speed": 85,
+    "control": 82,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/sergio.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 423
+  },
+  {
+    "name": "Diego Oro",
+    "nickname": "Oro",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 87,
+    "speed": 89,
+    "control": 77,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/oro.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 424
+  },
+  {
+    "name": "Thiago Torres",
+    "nickname": "Torres",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 69,
+    "speed": 85,
+    "control": 81,
+    "defense": 90,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/torres.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 425
+  },
+  {
+    "name": "Nacho Ortega",
+    "nickname": "Ortega",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 82,
+    "control": 78,
+    "defense": 88,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/ortega.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 426
+  },
+  {
+    "name": "Leone Balone",
+    "nickname": "Balone",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 88,
+    "speed": 87,
+    "control": 79,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/balone.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 427
+  },
+  {
+    "name": "Mario Saviola",
+    "nickname": "Saviola",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 84,
+    "speed": 82,
+    "control": 77,
+    "defense": 63,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/argentina/saviola.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 428
   }
 ]
