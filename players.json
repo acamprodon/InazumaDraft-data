@@ -7758,5 +7758,180 @@
     ],
     "secondaryPositions": ["MC"],
     "id": 473
-  }
+  },
+  {
+    "name": "Ulric Richmen",
+    "nickname": "Richmen",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 78,
+    "speed": 85,
+    "control": 81,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/richmen.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 474
+  },
+  {
+    "name": "Jonathan Luckyman",
+    "nickname": "Luckyman",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 84,
+    "speed": 85,
+    "control": 85,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/lucky.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 475
+  },
+  {
+    "name": "Mick Mishap",
+    "nickname": "Mishap",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 83,
+    "control": 74,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/mishap.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 476
+  },
+  {
+    "name": "Cannon Random",
+    "nickname": "Random",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 78,
+    "speed": 86,
+    "control": 83,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/random.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 477
+  },
+  {
+    "name": "Dany Destiny",
+    "nickname": "Destiny",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 73,
+    "speed": 84,
+    "control": 81,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/dany.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 478
+  },
+  {
+    "name": "Joe Poker",
+    "nickname": "Poker",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 85,
+    "speed": 86,
+    "control": 74,
+    "defense": 64,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/poker.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 479
+  },
+  {
+    "name": "Louis Leave",
+    "nickname": "Leave",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 68,
+    "speed": 78,
+    "control": 74,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/leave.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 480
+  },
+  {
+    "name": "Drancis Fake",
+    "nickname": "Fake",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 69,
+    "speed": 84,
+    "control": 75,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/fake.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 481
+  },
+  {
+    "name": "Spencer Duskplay",
+    "nickname": "Duskplay",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 82,
+    "speed": 84,
+    "control": 80,
+    "defense": 69,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/dusk.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 482
+  },
+  {
+    "name": "Maurice Badgame",
+    "nickname": "Badgame",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 63,
+    "speed": 74,
+    "control": 72,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/badgame.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 483
+  },{
+  "name": "Dave Fate",
+  "nickname": "Fate",
+  "position": "DL",
+  "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+  "kick": 80,
+  "speed": 76,
+  "control": 78,
+  "defense": 77,
+  "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/fauxso/fate.png",
+  "season": [
+    "T2"
+  ],
+  "secondaryPositions": ["MC"],
+  "id": 484
+}
 ]
