@@ -7374,5 +7374,213 @@
     ],
     "secondaryPositions": [],
     "id": 449
+  },
+  {
+    "name": "Isaac Glass",
+    "nickname": "Isaac",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 76,
+    "speed": 83,
+    "control": 76,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/inazumajapan/isaac.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 450
+  },
+  {
+    "name": "Mac Robingo",
+    "nickname": "Robingo",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 90,
+    "speed": 88,
+    "control": 80,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/mac.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 451
+  },
+  {
+    "name": "Gato Carvalho",
+    "nickname": "Carvalho",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 87,
+    "speed": 89,
+    "control": 77,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/gato.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 452
+  },
+  {
+    "name": "Monstro Ximenes",
+    "nickname": "Monstro",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 67,
+    "speed": 78,
+    "control": 77,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/monstro.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 453
+  },
+  {
+    "name": "Falcão Da Silva",
+    "nickname": "Da Silva",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 71,
+    "speed": 86,
+    "control": 78,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/falcao.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 454
+  },
+  {
+    "name": "Xavier Ribeiro",
+    "nickname": "Ribeiro",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 68,
+    "speed": 79,
+    "control": 81,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/ribeiro.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 455
+  },
+  {
+    "name": "Coruja Cerezo",
+    "nickname": "Cerezo",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 78,
+    "speed": 83,
+    "control": 82,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/cerezo.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 456
+  },
+  {
+    "name": "Formiga Clemens",
+    "nickname": "Clemens",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 69,
+    "speed": 86,
+    "control": 74,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/clemens.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 457
+  },
+  {
+    "name": "Carlos Lagarto",
+    "nickname": "Lagarto",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 71,
+    "speed": 85,
+    "control": 78,
+    "defense": 86,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/lagarto.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 458
+  },
+  {
+    "name": "Leonardo Almeida",
+    "nickname": "Almeida",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 84,
+    "speed": 87,
+    "control": 86,
+    "defense": 72,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/almeida.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 459
+  },
+  {
+    "name": "Antonio Bagre",
+    "nickname": "Bagre",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 78,
+    "control": 75,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/bagre.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 460
+  },
+  {
+    "name": "Bolboreta Barboza",
+    "nickname": "Barboza",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 82,
+    "speed": 85,
+    "control": 85,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/barboza.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 461
+  },
+  {
+    "name": "Presa Passos",
+    "nickname": "Passos",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 80,
+    "speed": 84,
+    "control": 85,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/brasil/passos.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 462
   }
 ]
