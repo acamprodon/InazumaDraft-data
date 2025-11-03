@@ -7582,5 +7582,181 @@
     ],
     "secondaryPositions": [],
     "id": 462
+  },
+  {
+    "name": "Ian Telektual",
+    "nickname": "Telektual",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 79,
+    "control": 77,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/telektual.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 463
+  },
+  {
+    "name": "Parry Waxon",
+    "nickname": "Waxon",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 80,
+    "control": 73,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/waxon.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 464
+  },
+  {
+    "name": "Dirk Artz",
+    "nickname": "Dirk",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 82,
+    "speed": 81,
+    "control": 75,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/dirk.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 465
+  },
+  {
+    "name": "Marshall Artz",
+    "nickname": "Marshall",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 82,
+    "speed": 81,
+    "control": 75,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/marshall.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 466
+  },
+  {
+    "name": "Brendan Water",
+    "nickname": "Water",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 62,
+    "speed": 77,
+    "control": 75,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/water.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 467
+  },
+  {
+    "name": "Bri Spark",
+    "nickname": "Sparky",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 68,
+    "speed": 85,
+    "control": 75,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/sparky.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 468
+  },
+  {
+    "name": "Max Fortune",
+    "nickname": "Maxi",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 66,
+    "speed": 82,
+    "control": 76,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/maxi.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 469
+  },
+  {
+    "name": "Crane Kik",
+    "nickname": "Kik",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 69,
+    "speed": 80,
+    "control": 78,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/kik.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 470
+  },
+  {
+    "name": "Junior Fardream",
+    "nickname": "Fardream",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 72,
+    "speed": 86,
+    "control": 79,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/fardream.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 471
+  },
+  {
+    "name": "Lee Dinglite",
+    "nickname": "Dinglite",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 75,
+    "speed": 81,
+    "control": 79,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/dinglite.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 472
+  },
+  {
+    "name": "Tyke Wando",
+    "nickname": "Wando",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 82,
+    "speed": 83,
+    "control": 77,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/claustro/wando.png",
+    "season": [
+      "T2"
+    ],
+    "secondaryPositions": [],
+    "id": 473
   }
 ]
