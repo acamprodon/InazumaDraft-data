@@ -7182,5 +7182,197 @@
     ],
     "secondaryPositions": [],
     "id": 437
+  },
+  {
+    "name": "Yusuf Massoud",
+    "nickname": "Massoud",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 72,
+    "speed": 79,
+    "control": 78,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/massoud.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 438
+  },
+  {
+    "name": "Sulayk Sulaiman",
+    "nickname": "Sulaiman",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 80,
+    "speed": 86,
+    "control": 82,
+    "defense": 70,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/sulaiman.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 439
+  },
+  {
+    "name": "Sayid Armand",
+    "nickname": "Armand",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 74,
+    "speed": 77,
+    "control": 77,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/armand.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 440
+  },
+  {
+    "name": "Jamila Wali",
+    "nickname": "Wali",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 85,
+    "control": 74,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/wali.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 441
+  },
+  {
+    "name": "Mansur Jasim",
+    "nickname": "Jasim",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 75,
+    "speed": 78,
+    "control": 80,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/jasim.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 442
+  },
+  {
+    "name": "Adel Siddique",
+    "nickname": "Siddique",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 78,
+    "speed": 80,
+    "control": 74,
+    "defense": 62,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/siddique.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 443
+  },
+  {
+    "name": "Bilal Kalil",
+    "nickname": "Kalil",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 77,
+    "speed": 87,
+    "control": 77,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/kalil.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 444
+  },
+  {
+    "name": "Musa Sylla",
+    "nickname": "Sylla",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 65,
+    "speed": 79,
+    "control": 73,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/sylla.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 445
+  },
+  {
+    "name": "Faraz Farooq",
+    "nickname": "Farooq",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 67,
+    "speed": 74,
+    "control": 73,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/farooq.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 446
+  },
+  {
+    "name": "Majdi Ismail",
+    "nickname": "Majdi",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 81,
+    "speed": 84,
+    "control": 76,
+    "defense": 63,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/majdi.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 447
+  },
+  {
+    "name": "Zack Abdulla",
+    "nickname": "Abdulla",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 82,
+    "speed": 83,
+    "control": 74,
+    "defense": 63,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/abdulla.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 448
+  },
+  {
+    "name": "Nasir Mustafa",
+    "nickname": "Mustafa",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 75,
+    "speed": 82,
+    "control": 74,
+    "defense": 82,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/t3/catar/mustafa.png",
+    "season": [
+      "T3"
+    ],
+    "secondaryPositions": [],
+    "id": 449
   }
 ]
