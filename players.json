@@ -7933,5 +7933,212 @@
   ],
   "secondaryPositions": ["MC"],
   "id": 484
-}
+},{
+  "name": "Canon Evans",
+  "nickname": "Canon",
+  "position": "DL",
+  "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+  "kick": 86,
+  "speed": 88,
+  "control": 81,
+  "defense": 70,
+  "image": "https://acamprodon.github.io/InazumaDraft-data/images/t2/raimon/canon.png",
+  "season": [
+    "T3"
+  ],
+  "secondaryPositions": ["MC"],
+  "id": 485
+},
+  {
+    "name": "Roger Jolly",
+    "nickname": "Roger",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 64,
+    "speed": 77,
+    "control": 72,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/roger.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 486
+  },
+  {
+    "name": "Octavus Kraken",
+    "nickname": "Kraken",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 68,
+    "speed": 80,
+    "control": 74,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/kraken.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 487
+  },
+  {
+    "name": "Sinbad Saylor",
+    "nickname": "Sinbad",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 63,
+    "speed": 78,
+    "control": 73,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/sinbad.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 488
+  },
+  {
+    "name": "Santelmo Phyre",
+    "nickname": "Santelmo",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 73,
+    "speed": 82,
+    "control": 79,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/santelmo.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 489
+  },
+  {
+    "name": "Cheung Po",
+    "nickname": "Cheung",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 71,
+    "speed": 74,
+    "control": 78,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/po.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 490
+  },
+  {
+    "name": "William Kidd",
+    "nickname": "Kidd",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 76,
+    "speed": 82,
+    "control": 78,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/kidd.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 491
+  },
+  {
+    "name": "Calico Corsair",
+    "nickname": "Calico",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 84,
+    "speed": 83,
+    "control": 77,
+    "defense": 67,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/calico.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 492
+  },
+  {
+    "name": "Barnabas Rossa",
+    "nickname": "Barnabas",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 79,
+    "speed": 76,
+    "control": 73,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/rossa.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 493
+  },
+  {
+    "name": "Dakkar Nemo",
+    "nickname": "Dakkar",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 83,
+    "speed": 86,
+    "control": 85,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/dakkar.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 494
+  },
+  {
+    "name": "Davy Jones",
+    "nickname": "Davy",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 88,
+    "speed": 88,
+    "control": 83,
+    "defense": 74,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/davy.png",
+    "season": [
+      "Go", "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 495
+  },
+  {
+    "name": "Ishmael Ahab",
+    "nickname": "Ishmael",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 71,
+    "speed": 76,
+    "control": 77,
+    "defense": 87,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/isma.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 496
+  },
+  {
+    "name": "Rob Crusoe",
+    "nickname": "Crusoe",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 66,
+    "speed": 81,
+    "control": 76,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/cala/rob.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 497
+  }
 ]
