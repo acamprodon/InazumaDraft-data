@@ -8140,5 +8140,181 @@
     ],
     "secondaryPositions": [],
     "id": 497
+  },
+  {
+    "name": "Eljas Viisi",
+    "nickname": "Viisi",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 69,
+    "speed": 86,
+    "control": 78,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/viisi.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 498
+  },
+  {
+    "name": "Animé Quintet",
+    "nickname": "Quintet",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 70,
+    "speed": 88,
+    "control": 79,
+    "defense": 88,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/quintet.png",
+    "season": [
+      "Go", "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 499
+  },
+  {
+    "name": "Pentra Chek",
+    "nickname": "Pentra",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 73,
+    "speed": 84,
+    "control": 79,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/pentra.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 500
+  },
+  {
+    "name": "Jacques Cinquini",
+    "nickname": "Cinquini",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 83,
+    "speed": 85,
+    "control": 77,
+    "defense": 63,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/cinquini.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 501
+  },
+  {
+    "name": "David Quintola",
+    "nickname": "Quintola",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 87,
+    "speed": 86,
+    "control": 80,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/quintola.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 502
+  },
+  {
+    "name": "Erik Pentona",
+    "nickname": "Pentona",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 88,
+    "speed": 87,
+    "control": 75,
+    "defense": 65,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/pentona.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 503
+  },
+  {
+    "name": "Federigo Cinco",
+    "nickname": "Cinco",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 82,
+    "speed": 86,
+    "control": 85,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/cinco.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 504
+  },
+  {
+    "name": "Fivier Saviola",
+    "nickname": "Fivier",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 80,
+    "speed": 84,
+    "control": 81,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/fivier.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["DL"],
+    "id": 505
+  },
+  {
+    "name": "Ferdinand Delafünfe",
+    "nickname": "Delafünfe",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 82,
+    "speed": 83,
+    "control": 86,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/dela.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 506
+  },
+  {
+    "name": "Quinque Flores",
+    "nickname": "Quinque",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 84,
+    "speed": 85,
+    "control": 83,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/quinque.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 507
+  },
+  {
+    "name": "Quentin Cinquedea",
+    "nickname": "Cinquedea",
+    "position": "PT",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 75,
+    "speed": 84,
+    "control": 82,
+    "defense": 90,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/quentin.png",
+    "season": [
+      "Go", "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 508
   }
 ]
