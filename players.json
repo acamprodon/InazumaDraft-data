@@ -8316,5 +8316,196 @@
     ],
     "secondaryPositions": [],
     "id": 508
+  },
+  {
+    "name": "Hocus Sesame",
+    "nickname": "Hocus",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 84,
+    "speed": 83,
+    "control": 78,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/hocus.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 509
+  },
+  {
+    "name": "Pocus Sesame",
+    "nickname": "Pocus",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 84,
+    "speed": 83,
+    "control": 78,
+    "defense": 66,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/pocus.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 510
+  },
+  {
+    "name": "Daffyd Blayne",
+    "nickname": "Daffyd",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 66,
+    "speed": 82,
+    "control": 77,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/daf.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 511
+  },
+  {
+    "name": "Jaymes Randie",
+    "nickname": "Jaymes",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 63,
+    "speed": 81,
+    "control": 76,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/jay.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 512
+  },
+  {
+    "name": "Ledger Demain",
+    "nickname": "Ledger",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 78,
+    "speed": 85,
+    "control": 82,
+    "defense": 75,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/ledger.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 513
+  },
+  {
+    "name": "Harrold Houdini",
+    "nickname": "Houdini",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 84,
+    "speed": 83,
+    "control": 88,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/harold.png",
+    "season": [
+      "Go", "GoG"
+    ],
+    "secondaryPositions": ["DL", "DF"],
+    "id": 514
+  },{
+  "name": "Abram Cadabra",
+  "nickname": "Cadabra",
+  "position": "PT",
+  "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+  "kick": 68,
+  "speed": 77,
+  "control": 75,
+  "defense": 86,
+  "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/abra.png",
+  "season": [
+    "Go"
+  ],
+  "secondaryPositions": [],
+  "id": 515
+},
+  {
+    "name": "Al Kazam",
+    "nickname": "Kazam",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 67,
+    "speed": 74,
+    "control": 72,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/kazam.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 516
+  },
+  {
+    "name": "Sigfryd Roi",
+    "nickname": "Sigfryd",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 68,
+    "speed": 77,
+    "control": 74,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/sigfryd.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 517
+  },
+  {
+    "name": "Trump Loyal",
+    "nickname": "Loyal",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 77,
+    "speed": 81,
+    "control": 79,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/loyal.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 518
+  },
+  {
+    "name": "Launce Berton",
+    "nickname": "Launce",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 76,
+    "speed": 80,
+    "control": 81,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/launce.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 519
+  },
+  {
+    "name": "Dave Copperfield",
+    "nickname": "Copper",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 76,
+    "speed": 80,
+    "control": 81,
+    "defense": 77,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/espejismo/cop.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 520
   }
 ]
