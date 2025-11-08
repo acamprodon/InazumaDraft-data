@@ -8198,7 +8198,7 @@
     "speed": 85,
     "control": 77,
     "defense": 63,
-    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/cinquini.png",
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/dragon/cinquin.png",
     "season": [
       "Go"
     ],
@@ -8507,5 +8507,228 @@
     ],
     "secondaryPositions": [],
     "id": 520
+  },{
+  "name": "Wolfe Whyte",
+  "nickname": "Wolfe",
+  "position": "PT",
+  "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+  "kick": 66,
+  "speed": 76,
+  "control": 79,
+  "defense": 83,
+  "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/wolfe.png",
+  "season": [
+    "Go"
+  ],
+  "secondaryPositions": [],
+  "id": 521
+},
+  {
+    "name": "Sascha Kotch",
+    "nickname": "Sasquatch",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 65,
+    "speed": 74,
+    "control": 76,
+    "defense": 84,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/sas.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 522
+  },
+  {
+    "name": "Iggie Loo",
+    "nickname": "Iggie",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 68,
+    "speed": 83,
+    "control": 78,
+    "defense": 85,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/iggie.png",
+    "season": [
+      "Go", "GoG"
+    ],
+    "secondaryPositions": [],
+    "id": 523
+  },
+  {
+    "name": "Art Tundra",
+    "nickname": "Tundra",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 76,
+    "speed": 84,
+    "control": 83,
+    "defense": 76,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/tundra.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 524
+  },
+  {
+    "name": "Njord Snio",
+    "nickname": "Njord",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/aire.png",
+    "kick": 88,
+    "speed": 88,
+    "control": 82,
+    "defense": 73,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/njord.png",
+    "season": [
+      "Go", "GoG"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 525
+  },
+  {
+    "name": "Guy l'Acier",
+    "nickname": "Guy",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 79,
+    "control": 76,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/guy.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 526
+  },
+  {
+    "name": "Guy l'Acier",
+    "nickname": "Guy",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 79,
+    "control": 76,
+    "defense": 81,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/guy.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 526
+  },
+  {
+    "name": "Himesh Himalaya",
+    "nickname": "Himalaya",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/earth.png",
+    "kick": 66,
+    "speed": 82,
+    "control": 76,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/hima.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 527
+  },
+  {
+    "name": "Grisley Bear",
+    "nickname": "Grizzly",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 82,
+    "speed": 77,
+    "control": 77,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/grizz.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 528
+  },
+  {
+    "name": "Blain Chills",
+    "nickname": "Blain",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 78,
+    "speed": 85,
+    "control": 82,
+    "defense": 79,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/blain.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 529
+  },
+  {
+    "name": "Bob Sled",
+    "nickname": "Bob",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/fuego.png",
+    "kick": 80,
+    "speed": 86,
+    "control": 85,
+    "defense": 80,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/bob.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 530
+  },
+  {
+    "name": "Matther Horne",
+    "nickname": "Matther",
+    "position": "DF",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 62,
+    "speed": 75,
+    "control": 74,
+    "defense": 83,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/matt.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 531
+  },
+  {
+    "name": "Borel Aurora",
+    "nickname": "Borel",
+    "position": "MC",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 75,
+    "speed": 85,
+    "control": 81,
+    "defense": 78,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/borel.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": [],
+    "id": 532
+  },
+  {
+    "name": "Yule Hoarfrost",
+    "nickname": "Yule",
+    "position": "DL",
+    "element": "https://acamprodon.github.io/InazumaDraft-data/images/elements/bosque.png",
+    "kick": 83,
+    "speed": 85,
+    "control": 76,
+    "defense": 63,
+    "image": "https://acamprodon.github.io/InazumaDraft-data/images/go/alpino/yule.png",
+    "season": [
+      "Go"
+    ],
+    "secondaryPositions": ["MC"],
+    "id": 533
   }
 ]
